@@ -1,0 +1,677 @@
+{
+    "flowers": [
+        {
+            "id": 1,
+            "name": "Daffodil",
+            "scientific_name": "Narcissus",
+            "color": "Yellow",
+            "description": "A trumpet-shaped flower with bright yellow petals and a distinct fragrance.",
+            "image": "https://rukminim1.flixcart.com/image/416/416/kumzpu80/plant-seed/o/p/g/15-daffodil-315-fernsfly-original-imag7px6xnpwjwdc.jpeg?q=70",
+            "thumbnails": [
+                {
+                    "seq": 1,
+                    "url": "https://rukminim1.flixcart.com/image/416/416/kumzpu80/plant-seed/o/p/g/15-daffodil-315-fernsfly-original-imag7px6xnpwjwdc.jpeg?q=70"
+                }
+            ],
+            "features": [
+                "Fragrant",
+                "Trumpet-shaped"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 2,
+            "name": "Hydrangea",
+            "scientific_name": "Hydrangea macrophylla",
+            "color": "Blue",
+            "description": "A large and showy flower that comes in shades of blue, pink, and white.",
+            "image": "http://example.com/hydrangea.jpg",
+            "features": [
+                "Large",
+                "Showy"
+            ],
+            "category": "Shrub"
+        },
+        {
+            "id": 3,
+            "name": "Snapdragon",
+            "scientific_name": "Antirrhinum majus",
+            "color": "Red",
+            "description": "A tall flower with a distinctive shape that resembles a dragon's mouth.",
+            "image": "http://example.com/snapdragon.jpg",
+            "features": [
+                "Tall",
+                "Distinctive"
+            ],
+            "category": "Annual"
+        },
+        {
+            "id": 4,
+            "name": "Poppy",
+            "scientific_name": "Papaver rhoeas",
+            "color": "Red",
+            "description": "A bright red flower with delicate petals that flutter in the breeze.",
+            "image": "http://example.com/poppy.jpg",
+            "features": [
+                "Bright",
+                "Delicate"
+            ],
+            "category": "Annual"
+        },
+        {
+            "id": 5,
+            "name": "Marigold",
+            "scientific_name": "Tagetes",
+            "color": "Orange",
+            "description": "A small and hardy flower that is often used in garden borders.",
+            "image": "http://example.com/marigold.jpg",
+            "features": [
+                "Hardy",
+                "Small"
+            ],
+            "category": "Annual"
+        },
+        {
+            "id": 6,
+            "name": "Peony",
+            "scientific_name": "Paeonia",
+            "color": "Pink",
+            "description": "A large and showy flower with soft, ruffled petals.",
+            "image": "http://example.com/peony.jpg",
+            "features": [
+                "Large",
+                "Ruffled"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 7,
+            "name": "Crocus",
+            "scientific_name": "Crocus sativus",
+            "color": "Purple",
+            "description": "A small flower with delicate petals that emerges from the ground in early spring.",
+            "image": "http://example.com/crocus.jpg",
+            "features": [
+                "Delicate",
+                "Early bloomer"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 8,
+            "name": "Begonia",
+            "scientific_name": "Begonia",
+            "color": "Pink",
+            "description": "A small and colorful flower that is often used in container gardens.",
+            "image": "http://example.com/begonia.jpg",
+            "features": [
+                "Colorful",
+                "Small"
+            ],
+            "category": "Annual"
+        },
+        {
+            "id": 9,
+            "name": "Lilac",
+            "scientific_name": "Syringa vulgaris",
+            "color": "Purple",
+            "description": "A fragrant flower that grows in clusters on woody shrubs.",
+            "image": "http://example.com/lilac.jpg",
+            "features": [
+                "Fragrant",
+                "Clustered"
+            ],
+            "category": "Shrub"
+        },
+        {
+            "id": 10,
+            "name": "Lavender",
+            "scientific_name": "Lavandula",
+            "color": "Purple",
+            "description": "A small and aromatic flower that is often used in herbal remedies.",
+            "image": "http://example.com/lavender.jpg",
+            "features": [
+                "Aromatic",
+                "Small"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 11,
+            "name": "Carnation",
+            "scientific_name": "Dianthus caryophyllus",
+            "color": "Red",
+            "description": "A fragrant flower with ruffled petals that comes in a variety of colors.",
+            "image": "http://example.com/carnation.jpg",
+            "features": [
+                "Fragrant",
+                "Ruffled"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 12,
+            "name": "Rose",
+            "scientific_name": "Rosa",
+            "color": "Red",
+            "description": "A classic flower with a sweet fragrance and thorny stems.",
+            "image": "http://example.com/rose.jpg",
+            "features": [
+                "Fragrant",
+                "Thorny"
+            ],
+            "category": "Shrub"
+        },
+        {
+            "id": 13,
+            "name": "Tulip",
+            "scientific_name": "Tulipa",
+            "color": "Yellow",
+            "description": "A bright and cheerful flower that comes in a variety of colors.",
+            "image": "http://example.com/tulip.jpg",
+            "features": [
+                "Cheerful",
+                "Vibrant"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 14,
+            "name": "Sunflower",
+            "scientific_name": "Helianthus annuus",
+            "color": "Yellow",
+            "description": "A large and showy flower with a distinctive disk-shaped center.",
+            "image": "http://example.com/sunflower.jpg",
+            "features": [
+                "Large",
+                "Showy"
+            ],
+            "category": "Annual"
+        },
+        {
+            "id": 15,
+            "name": "Freesia",
+            "scientific_name": "Freesia",
+            "color": "White",
+            "description": "A fragrant flower with delicate, funnel-shaped petals.",
+            "image": "http://example.com/freesia.jpg",
+            "features": [
+                "Fragrant",
+                "Delicate"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 16,
+            "name": "Chrysanthemum",
+            "scientific_name": "Chrysanthemum",
+            "color": "Yellow",
+            "description": "A large and showy flower that comes in a variety of colors and shapes.",
+            "image": "http://example.com/chrysanthemum.jpg",
+            "features": [
+                "Large",
+                "Showy"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 17,
+            "name": "Anemone",
+            "scientific_name": "Anemone",
+            "color": "Pink",
+            "description": "A delicate flower with paper-thin petals that come in a variety of colors.",
+            "image": "http://example.com/anemone.jpg",
+            "features": [
+                "Delicate",
+                "Paper-thin petals"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 18,
+            "name": "Gladiolus",
+            "scientific_name": "Gladiolus",
+            "color": "Various",
+            "description": "A tall, showy flower with sword-like leaves and spikes of trumpet-shaped blooms in a wide range of colors.",
+            "image": "http://example.com/gladiolus.jpg",
+            "features": [
+                "Tall and showy",
+                "Sword-like leaves",
+                "Trumpet-shaped blooms",
+                "Variety of colors"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 19,
+            "name": "Daisy",
+            "scientific_name": "Bellis perennis",
+            "color": "White",
+            "description": "A cheerful flower with a yellow center and delicate petals.",
+            "image": "http://example.com/daisy.jpg",
+            "features": [
+                "Cheerful",
+                "Delicate"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 20,
+            "name": "Poppy",
+            "scientific_name": "Papaver rhoeas",
+            "color": "Red",
+            "description": "A bright and colorful flower that is often associated with remembrance.",
+            "image": "http://example.com/poppy.jpg",
+            "features": [
+                "Bright",
+                "Colorful"
+            ],
+            "category": "Annual"
+        },
+        {
+            "id": 21,
+            "name": "Lilac",
+            "scientific_name": "Syringa vulgaris",
+            "color": "Purple",
+            "description": "A fragrant flower with small, delicate petals that grow in clusters.",
+            "image": "http://example.com/lilac.jpg",
+            "features": [
+                "Fragrant",
+                "Clustered"
+            ],
+            "category": "Shrub"
+        },
+        {
+            "id": 22,
+            "name": "Hydrangea",
+            "scientific_name": "Hydrangea macrophylla",
+            "color": "Blue",
+            "description": "A large and showy flower that grows in clusters and changes color based on soil acidity.",
+            "image": "http://example.com/hydrangea.jpg",
+            "features": [
+                "Large",
+                "Showy"
+            ],
+            "category": "Shrub"
+        },
+        {
+            "id": 23,
+            "name": "Fuchsia",
+            "scientific_name": "Fuchsia",
+            "color": "Pink",
+            "description": "A delicate flower with small, hanging petals that come in a variety of colors.",
+            "image": "http://example.com/fuchsia.jpg",
+            "features": [
+                "Delicate",
+                "Hanging petals"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 24,
+            "name": "Pansy",
+            "scientific_name": "Viola tricolor",
+            "color": "Purple",
+            "description": "A cheerful flower with heart-shaped petals that come in a variety of colors.",
+            "image": "http://example.com/pansy.jpg",
+            "features": [
+                "Cheerful",
+                "Heart-shaped petals"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 25,
+            "name": "Snapdragon",
+            "scientific_name": "Antirrhinum majus",
+            "color": "Pink",
+            "description": "A tall and slender flower with a distinctive, dragon-shaped mouth.",
+            "image": "http://example.com/snapdragon.jpg",
+            "features": [
+                "Tall",
+                "Slender",
+                "Dragon-shaped mouth"
+            ],
+            "category": "Annual"
+        },
+        {
+            "id": 26,
+            "name": "Clematis",
+            "scientific_name": "Clematis",
+            "color": "Purple",
+            "description": "A climbing vine with large, showy flowers that come in a variety of colors.",
+            "image": "http://example.com/clematis.jpg",
+            "features": [
+                "Climbing",
+                "Large",
+                "Showy"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 27,
+            "name": "Peony",
+            "scientific_name": "Paeonia",
+            "color": "Pink",
+            "description": "A large and showy flower with soft, delicate petals that come in a variety of colors.",
+            "image": "http://example.com/peony.jpg",
+            "features": [
+                "Large",
+                "Showy",
+                "Soft petals"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 28,
+            "name": "Crocus",
+            "scientific_name": "Crocus vernus",
+            "color": "Purple",
+            "description": "A small, early blooming flower with cup-shaped blooms that come in shades of purple, white, and yellow.",
+            "image": "http://example.com/crocus.jpg",
+            "features": [
+                "Early blooming",
+                "Cup-shaped blooms",
+                "Variety of colors"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 29,
+            "name": "Gladiolus",
+            "scientific_name": "Gladiolus",
+            "color": "Red",
+            "description": "A tall and showy flower with long, sword-shaped leaves and a variety of colorful blooms.",
+            "image": "http://example.com/gladiolus.jpg",
+            "features": [
+                "Tall",
+                "Showy",
+                "Sword-shaped leaves"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 30,
+            "name": "Cosmos",
+            "scientific_name": "Cosmos",
+            "color": "Pink",
+            "description": "A daisy-like flower with delicate, feathery leaves and a variety of colorful blooms.",
+            "image": "http://example.com/cosmos.jpg",
+            "features": [
+                "Daisy-like",
+                "Delicate",
+                "Feathery leaves"
+            ],
+            "category": "Annual"
+        },
+        {
+            "id": 31,
+            "name": "Daffodil",
+            "scientific_name": "Narcissus",
+            "color": "Yellow",
+            "description": "A cheerful flower with long, trumpet-shaped blooms and a distinctive fragrance.",
+            "image": "http://example.com/daffodil.jpg",
+            "features": [
+                "Cheerful",
+                "Trumpet-shaped blooms",
+                "Distinctive fragrance"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 32,
+            "name": "Sunflower",
+            "scientific_name": "Helianthus annuus",
+            "color": "Yellow",
+            "description": "A tall and cheerful flower with large, sunny blooms and long, slender leaves.",
+            "image": "http://example.com/sunflower.jpg",
+            "features": [
+                "Tall",
+                "Cheerful",
+                "Large blooms"
+            ],
+            "category": "Annual"
+        },
+        {
+            "id": 33,
+            "name": "Foxglove",
+            "scientific_name": "Digitalis",
+            "color": "Pink",
+            "description": "A tall and slender flower with bell-shaped blooms that come in a variety of colors.",
+            "image": "http://example.com/foxglove.jpg",
+            "features": [
+                "Tall",
+                "Slender",
+                "Bell-shaped blooms"
+            ],
+            "category": "Biennial"
+        },
+        {
+            "id": 34,
+            "name": "Freesia",
+            "scientific_name": "Freesia",
+            "color": "White",
+            "description": "A fragrant flower with delicate, funnel-shaped blooms that come in a variety of colors.",
+            "image": "http://example.com/freesia.jpg",
+            "features": [
+                "Fragrant",
+                "Funnel-shaped blooms",
+                "Delicate"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 35,
+            "name": "Iris",
+            "scientific_name": "Iris",
+            "color": "Purple",
+            "description": "A regal flower with sword-shaped leaves and a variety of colorful blooms.",
+            "image": "http://example.com/iris.jpg",
+            "features": [
+                "Regal",
+                "Sword-shaped leaves",
+                "Colorful blooms"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 36,
+            "name": "Lily of the Valley",
+            "scientific_name": "Convallaria majalis",
+            "color": "White",
+            "description": "A fragrant flower with delicate, bell-shaped blooms that grow in clusters.",
+            "image": "http://example.com/lily-of-the-valley.jpg",
+            "features": [
+                "Fragrant",
+                "Bell-shaped blooms",
+                "Clustered growth"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 37,
+            "name": "Crocus",
+            "scientific_name": "Crocus",
+            "color": "Purple",
+            "description": "A small and cheerful flower with cup-shaped blooms that bloom early in the spring.",
+            "image": "http://example.com/crocus.jpg",
+            "features": [
+                "Small",
+                "Cheerful",
+                "Cup-shaped blooms"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 38,
+            "name": "Zinnia",
+            "scientific_name": "Zinnia elegans",
+            "color": "Orange",
+            "description": "A vibrant flower with a variety of colorful blooms and long, slender leaves.",
+            "image": "http://example.com/zinnia.jpg",
+            "features": [
+                "Vibrant",
+                "Colorful blooms",
+                "Slender leaves"
+            ],
+            "category": "Annual"
+        },
+        {
+            "id": 39,
+            "name": "Snapdragon",
+            "scientific_name": "Antirrhinum majus",
+            "color": "Pink",
+            "description": "A charming flower with snap-like blooms that come in a variety of colors.",
+            "image": "http://example.com/snapdragon.jpg",
+            "features": [
+                "Charming",
+                "Snap-like blooms",
+                "Variety of colors"
+            ],
+            "category": "Annual"
+        },
+        {
+            "id": 40,
+            "name": "Peony",
+            "scientific_name": "Paeonia",
+            "color": "Pink",
+            "description": "A lush flower with large, showy blooms that come in a variety of colors.",
+            "image": "http://example.com/peony.jpg",
+            "features": [
+                "Lush",
+                "Showy blooms",
+                "Variety of colors"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 41,
+            "name": "Cosmos",
+            "scientific_name": "Cosmos bipinnatus",
+            "color": "Pink",
+            "description": "A graceful flower with daisy-like blooms and feathery leaves.",
+            "image": "http://example.com/cosmos.jpg",
+            "features": [
+                "Graceful",
+                "Daisy-like blooms",
+                "Feathery leaves"
+            ],
+            "category": "Annual"
+        },
+        {
+            "id": 43,
+            "name": "Anemone",
+            "scientific_name": "Anemone",
+            "color": "White",
+            "description": "A delicate flower with daisy-like blooms and a dark center.",
+            "image": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcS8aEWw_t_dwpdJg9omTnVOTRkEi6raoP45PtMdtHG3quvsnphGA78RjDwKorjFhyGrmKw4H0_GY-Ql6F8",
+            "featured": true,
+            "features": [
+                "Delicate",
+                "Daisy-like blooms",
+                "Dark center"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 44,
+            "name": "Chrysanthemum",
+            "scientific_name": "Chrysanthemum",
+            "color": "Yellow",
+            "description": "A cheerful flower with daisy-like blooms that come in a variety of colors.",
+            "image": "https://cdn.britannica.com/09/174809-050-CA9F8F8C/daisy-mums-ray-flowers-disk-centre.jpg",
+            "featured": true,
+            "features": [
+                "Cheerful",
+                "Daisy-like blooms",
+                "Variety of colors"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 45,
+            "name": "Bleeding Heart",
+            "scientific_name": "Lamprocapnos spectabilis",
+            "color": "Pink",
+            "description": "A romantic flower with heart-shaped, pink blooms that hang from arching stems.",
+            "image": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQ7uq8aO866dW87RLvndQQvKkn22uT7UxIojgp0Qq_YZVw-dSJ4mRjp_3gkeL7FqeV1ilqARMenjIEj0EY",
+            "featured": true,
+            "features": [
+                "Romantic",
+                "Heart-shaped blooms",
+                "Arched stems"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 46,
+            "name": "Coreopsis",
+            "scientific_name": "Coreopsis",
+            "color": "Yellow",
+            "description": "A cheerful flower with daisy-like blooms that come in shades of yellow, orange, and red.",
+            "image": "http://example.com/coreopsis.jpg",
+            "features": [
+                "Cheerful",
+                "Daisy-like blooms",
+                "Variety of colors"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 47,
+            "name": "Hibiscus",
+            "scientific_name": "Hibiscus",
+            "color": "Pink",
+            "description": "A tropical flower with large, showy blooms that come in a variety of colors.",
+            "image": "http://example.com/hibiscus.jpg",
+            "features": [
+                "Tropical",
+                "Showy blooms",
+                "Variety of colors"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 48,
+            "name": "Dahlia",
+            "scientific_name": "Dahlia",
+            "color": "Red",
+            "description": "A flamboyant flower with large, showy blooms that come in a variety of colors and shapes.",
+            "image": "http://example.com/dahlia.jpg",
+            "features": [
+                "Flamboyant",
+                "Showy blooms",
+                "Variety of colors and shapes"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 49,
+            "name": "Freesia",
+            "scientific_name": "Freesia",
+            "color": "Purple",
+            "description": "A fragrant flower with funnel-shaped blooms that come in a range of colors.",
+            "image": "http://example.com/freesia.jpg",
+            "features": [
+                "Fragrant",
+                "Funnel-shaped blooms",
+                "Variety of colors"
+            ],
+            "category": "Perennial"
+        },
+        {
+            "id": 50,
+            "name": "Foxglove",
+            "scientific_name": "Digitalis purpurea",
+            "color": "Purple",
+            "description": "A stately flower with tall spikes of tubular blooms in shades of pink, purple, and white.",
+            "image": "http://example.com/foxglove.jpg",
+            "features": [
+                "Stately",
+                "Tall spikes",
+                "Tubular blooms"
+            ],
+            "category": "Biennial"
+        }
+    ]
+}
