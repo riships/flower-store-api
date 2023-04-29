@@ -106,10 +106,10 @@
             "description": "Exotic and luxurious orchid bouquet, perfect for special occasions",
             "price": 39.99,
             "images": [
-                "https://example.com/flowers/orchids1.jpg",
-                "https://example.com/flowers/orchids2.jpg",
-                "https://example.com/flowers/orchids3.jpg",
-                "https://example.com/flowers/orchids4.jpg"
+                "https://www.bhg.com/thmb/af44DA9hMpixVazfxU0z8DX0Fu8=/1983x0/filters:no_upscale():strip_icc()/Caring-for-Orchids-bfe9b95eb493417cba1fd0d6885c20ee.jpg",
+                "https://s3g2u3k4.rocketcdn.me/wp-content/uploads/sites/4/2023/01/phalaenopsis.jpg",
+                "https://www.bomagardencentre.co.uk/files/images/news/orchids-how-easy-care-are-they-1200x776-6315ee6127a76_src.webp",
+                "https://images.ctfassets.net/i3tkg7dt3kro/5lk0j05tZIn1pnQsUivXuW/fa483b7b55988d82adbc069a45ee6f26/caring-for-orchids-hero-720x500.jpg"
             ],
             "category": "Flowers",
             "sub_category": "Orchid Bouquets",
