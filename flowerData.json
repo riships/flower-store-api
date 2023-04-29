@@ -1,677 +1,1006 @@
-{
-    "flowers": [
-        {
-            "id": 1,
-            "name": "Daffodil",
-            "scientific_name": "Narcissus",
-            "color": "Yellow",
-            "description": "A trumpet-shaped flower with bright yellow petals and a distinct fragrance.",
-            "image": "https://rukminim1.flixcart.com/image/416/416/kumzpu80/plant-seed/o/p/g/15-daffodil-315-fernsfly-original-imag7px6xnpwjwdc.jpeg?q=70",
-            "thumbnails": [
-                {
-                    "seq": 1,
-                    "url": "https://rukminim1.flixcart.com/image/416/416/kumzpu80/plant-seed/o/p/g/15-daffodil-315-fernsfly-original-imag7px6xnpwjwdc.jpeg?q=70"
-                }
-            ],
-            "features": [
-                "Fragrant",
-                "Trumpet-shaped"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 2,
-            "name": "Hydrangea",
-            "scientific_name": "Hydrangea macrophylla",
-            "color": "Blue",
-            "description": "A large and showy flower that comes in shades of blue, pink, and white.",
-            "image": "http://example.com/hydrangea.jpg",
-            "features": [
-                "Large",
-                "Showy"
-            ],
-            "category": "Shrub"
-        },
-        {
-            "id": 3,
-            "name": "Snapdragon",
-            "scientific_name": "Antirrhinum majus",
-            "color": "Red",
-            "description": "A tall flower with a distinctive shape that resembles a dragon's mouth.",
-            "image": "http://example.com/snapdragon.jpg",
-            "features": [
-                "Tall",
-                "Distinctive"
-            ],
-            "category": "Annual"
-        },
-        {
-            "id": 4,
-            "name": "Poppy",
-            "scientific_name": "Papaver rhoeas",
-            "color": "Red",
-            "description": "A bright red flower with delicate petals that flutter in the breeze.",
-            "image": "http://example.com/poppy.jpg",
-            "features": [
-                "Bright",
-                "Delicate"
-            ],
-            "category": "Annual"
-        },
-        {
-            "id": 5,
-            "name": "Marigold",
-            "scientific_name": "Tagetes",
-            "color": "Orange",
-            "description": "A small and hardy flower that is often used in garden borders.",
-            "image": "http://example.com/marigold.jpg",
-            "features": [
-                "Hardy",
-                "Small"
-            ],
-            "category": "Annual"
-        },
-        {
-            "id": 6,
-            "name": "Peony",
-            "scientific_name": "Paeonia",
-            "color": "Pink",
-            "description": "A large and showy flower with soft, ruffled petals.",
-            "image": "http://example.com/peony.jpg",
-            "features": [
-                "Large",
-                "Ruffled"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 7,
-            "name": "Crocus",
-            "scientific_name": "Crocus sativus",
-            "color": "Purple",
-            "description": "A small flower with delicate petals that emerges from the ground in early spring.",
-            "image": "http://example.com/crocus.jpg",
-            "features": [
-                "Delicate",
-                "Early bloomer"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 8,
-            "name": "Begonia",
-            "scientific_name": "Begonia",
-            "color": "Pink",
-            "description": "A small and colorful flower that is often used in container gardens.",
-            "image": "http://example.com/begonia.jpg",
-            "features": [
-                "Colorful",
-                "Small"
-            ],
-            "category": "Annual"
-        },
-        {
-            "id": 9,
-            "name": "Lilac",
-            "scientific_name": "Syringa vulgaris",
-            "color": "Purple",
-            "description": "A fragrant flower that grows in clusters on woody shrubs.",
-            "image": "http://example.com/lilac.jpg",
-            "features": [
-                "Fragrant",
-                "Clustered"
-            ],
-            "category": "Shrub"
-        },
-        {
-            "id": 10,
-            "name": "Lavender",
-            "scientific_name": "Lavandula",
-            "color": "Purple",
-            "description": "A small and aromatic flower that is often used in herbal remedies.",
-            "image": "http://example.com/lavender.jpg",
-            "features": [
-                "Aromatic",
-                "Small"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 11,
-            "name": "Carnation",
-            "scientific_name": "Dianthus caryophyllus",
-            "color": "Red",
-            "description": "A fragrant flower with ruffled petals that comes in a variety of colors.",
-            "image": "http://example.com/carnation.jpg",
-            "features": [
-                "Fragrant",
-                "Ruffled"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 12,
-            "name": "Rose",
-            "scientific_name": "Rosa",
-            "color": "Red",
-            "description": "A classic flower with a sweet fragrance and thorny stems.",
-            "image": "http://example.com/rose.jpg",
-            "features": [
-                "Fragrant",
-                "Thorny"
-            ],
-            "category": "Shrub"
-        },
-        {
-            "id": 13,
-            "name": "Tulip",
-            "scientific_name": "Tulipa",
-            "color": "Yellow",
-            "description": "A bright and cheerful flower that comes in a variety of colors.",
-            "image": "http://example.com/tulip.jpg",
-            "features": [
-                "Cheerful",
-                "Vibrant"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 14,
-            "name": "Sunflower",
-            "scientific_name": "Helianthus annuus",
-            "color": "Yellow",
-            "description": "A large and showy flower with a distinctive disk-shaped center.",
-            "image": "http://example.com/sunflower.jpg",
-            "features": [
-                "Large",
-                "Showy"
-            ],
-            "category": "Annual"
-        },
-        {
-            "id": 15,
-            "name": "Freesia",
-            "scientific_name": "Freesia",
-            "color": "White",
-            "description": "A fragrant flower with delicate, funnel-shaped petals.",
-            "image": "http://example.com/freesia.jpg",
-            "features": [
-                "Fragrant",
-                "Delicate"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 16,
-            "name": "Chrysanthemum",
-            "scientific_name": "Chrysanthemum",
-            "color": "Yellow",
-            "description": "A large and showy flower that comes in a variety of colors and shapes.",
-            "image": "http://example.com/chrysanthemum.jpg",
-            "features": [
-                "Large",
-                "Showy"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 17,
-            "name": "Anemone",
-            "scientific_name": "Anemone",
-            "color": "Pink",
-            "description": "A delicate flower with paper-thin petals that come in a variety of colors.",
-            "image": "http://example.com/anemone.jpg",
-            "features": [
-                "Delicate",
-                "Paper-thin petals"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 18,
-            "name": "Gladiolus",
-            "scientific_name": "Gladiolus",
-            "color": "Various",
-            "description": "A tall, showy flower with sword-like leaves and spikes of trumpet-shaped blooms in a wide range of colors.",
-            "image": "http://example.com/gladiolus.jpg",
-            "features": [
-                "Tall and showy",
-                "Sword-like leaves",
-                "Trumpet-shaped blooms",
-                "Variety of colors"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 19,
-            "name": "Daisy",
-            "scientific_name": "Bellis perennis",
-            "color": "White",
-            "description": "A cheerful flower with a yellow center and delicate petals.",
-            "image": "http://example.com/daisy.jpg",
-            "features": [
-                "Cheerful",
-                "Delicate"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 20,
-            "name": "Poppy",
-            "scientific_name": "Papaver rhoeas",
-            "color": "Red",
-            "description": "A bright and colorful flower that is often associated with remembrance.",
-            "image": "http://example.com/poppy.jpg",
-            "features": [
-                "Bright",
-                "Colorful"
-            ],
-            "category": "Annual"
-        },
-        {
-            "id": 21,
-            "name": "Lilac",
-            "scientific_name": "Syringa vulgaris",
-            "color": "Purple",
-            "description": "A fragrant flower with small, delicate petals that grow in clusters.",
-            "image": "http://example.com/lilac.jpg",
-            "features": [
-                "Fragrant",
-                "Clustered"
-            ],
-            "category": "Shrub"
-        },
-        {
-            "id": 22,
-            "name": "Hydrangea",
-            "scientific_name": "Hydrangea macrophylla",
-            "color": "Blue",
-            "description": "A large and showy flower that grows in clusters and changes color based on soil acidity.",
-            "image": "http://example.com/hydrangea.jpg",
-            "features": [
-                "Large",
-                "Showy"
-            ],
-            "category": "Shrub"
-        },
-        {
-            "id": 23,
-            "name": "Fuchsia",
-            "scientific_name": "Fuchsia",
-            "color": "Pink",
-            "description": "A delicate flower with small, hanging petals that come in a variety of colors.",
-            "image": "http://example.com/fuchsia.jpg",
-            "features": [
-                "Delicate",
-                "Hanging petals"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 24,
-            "name": "Pansy",
-            "scientific_name": "Viola tricolor",
-            "color": "Purple",
-            "description": "A cheerful flower with heart-shaped petals that come in a variety of colors.",
-            "image": "http://example.com/pansy.jpg",
-            "features": [
-                "Cheerful",
-                "Heart-shaped petals"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 25,
-            "name": "Snapdragon",
-            "scientific_name": "Antirrhinum majus",
-            "color": "Pink",
-            "description": "A tall and slender flower with a distinctive, dragon-shaped mouth.",
-            "image": "http://example.com/snapdragon.jpg",
-            "features": [
-                "Tall",
-                "Slender",
-                "Dragon-shaped mouth"
-            ],
-            "category": "Annual"
-        },
-        {
-            "id": 26,
-            "name": "Clematis",
-            "scientific_name": "Clematis",
-            "color": "Purple",
-            "description": "A climbing vine with large, showy flowers that come in a variety of colors.",
-            "image": "http://example.com/clematis.jpg",
-            "features": [
-                "Climbing",
-                "Large",
-                "Showy"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 27,
-            "name": "Peony",
-            "scientific_name": "Paeonia",
-            "color": "Pink",
-            "description": "A large and showy flower with soft, delicate petals that come in a variety of colors.",
-            "image": "http://example.com/peony.jpg",
-            "features": [
-                "Large",
-                "Showy",
-                "Soft petals"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 28,
-            "name": "Crocus",
-            "scientific_name": "Crocus vernus",
-            "color": "Purple",
-            "description": "A small, early blooming flower with cup-shaped blooms that come in shades of purple, white, and yellow.",
-            "image": "http://example.com/crocus.jpg",
-            "features": [
-                "Early blooming",
-                "Cup-shaped blooms",
-                "Variety of colors"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 29,
-            "name": "Gladiolus",
-            "scientific_name": "Gladiolus",
-            "color": "Red",
-            "description": "A tall and showy flower with long, sword-shaped leaves and a variety of colorful blooms.",
-            "image": "http://example.com/gladiolus.jpg",
-            "features": [
-                "Tall",
-                "Showy",
-                "Sword-shaped leaves"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 30,
-            "name": "Cosmos",
-            "scientific_name": "Cosmos",
-            "color": "Pink",
-            "description": "A daisy-like flower with delicate, feathery leaves and a variety of colorful blooms.",
-            "image": "http://example.com/cosmos.jpg",
-            "features": [
-                "Daisy-like",
-                "Delicate",
-                "Feathery leaves"
-            ],
-            "category": "Annual"
-        },
-        {
-            "id": 31,
-            "name": "Daffodil",
-            "scientific_name": "Narcissus",
-            "color": "Yellow",
-            "description": "A cheerful flower with long, trumpet-shaped blooms and a distinctive fragrance.",
-            "image": "http://example.com/daffodil.jpg",
-            "features": [
-                "Cheerful",
-                "Trumpet-shaped blooms",
-                "Distinctive fragrance"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 32,
-            "name": "Sunflower",
-            "scientific_name": "Helianthus annuus",
-            "color": "Yellow",
-            "description": "A tall and cheerful flower with large, sunny blooms and long, slender leaves.",
-            "image": "http://example.com/sunflower.jpg",
-            "features": [
-                "Tall",
-                "Cheerful",
-                "Large blooms"
-            ],
-            "category": "Annual"
-        },
-        {
-            "id": 33,
-            "name": "Foxglove",
-            "scientific_name": "Digitalis",
-            "color": "Pink",
-            "description": "A tall and slender flower with bell-shaped blooms that come in a variety of colors.",
-            "image": "http://example.com/foxglove.jpg",
-            "features": [
-                "Tall",
-                "Slender",
-                "Bell-shaped blooms"
-            ],
-            "category": "Biennial"
-        },
-        {
-            "id": 34,
-            "name": "Freesia",
-            "scientific_name": "Freesia",
-            "color": "White",
-            "description": "A fragrant flower with delicate, funnel-shaped blooms that come in a variety of colors.",
-            "image": "http://example.com/freesia.jpg",
-            "features": [
-                "Fragrant",
-                "Funnel-shaped blooms",
-                "Delicate"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 35,
-            "name": "Iris",
-            "scientific_name": "Iris",
-            "color": "Purple",
-            "description": "A regal flower with sword-shaped leaves and a variety of colorful blooms.",
-            "image": "http://example.com/iris.jpg",
-            "features": [
-                "Regal",
-                "Sword-shaped leaves",
-                "Colorful blooms"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 36,
-            "name": "Lily of the Valley",
-            "scientific_name": "Convallaria majalis",
-            "color": "White",
-            "description": "A fragrant flower with delicate, bell-shaped blooms that grow in clusters.",
-            "image": "http://example.com/lily-of-the-valley.jpg",
-            "features": [
-                "Fragrant",
-                "Bell-shaped blooms",
-                "Clustered growth"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 37,
-            "name": "Crocus",
-            "scientific_name": "Crocus",
-            "color": "Purple",
-            "description": "A small and cheerful flower with cup-shaped blooms that bloom early in the spring.",
-            "image": "http://example.com/crocus.jpg",
-            "features": [
-                "Small",
-                "Cheerful",
-                "Cup-shaped blooms"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 38,
-            "name": "Zinnia",
-            "scientific_name": "Zinnia elegans",
-            "color": "Orange",
-            "description": "A vibrant flower with a variety of colorful blooms and long, slender leaves.",
-            "image": "http://example.com/zinnia.jpg",
-            "features": [
-                "Vibrant",
-                "Colorful blooms",
-                "Slender leaves"
-            ],
-            "category": "Annual"
-        },
-        {
-            "id": 39,
-            "name": "Snapdragon",
-            "scientific_name": "Antirrhinum majus",
-            "color": "Pink",
-            "description": "A charming flower with snap-like blooms that come in a variety of colors.",
-            "image": "http://example.com/snapdragon.jpg",
-            "features": [
-                "Charming",
-                "Snap-like blooms",
-                "Variety of colors"
-            ],
-            "category": "Annual"
-        },
-        {
-            "id": 40,
-            "name": "Peony",
-            "scientific_name": "Paeonia",
-            "color": "Pink",
-            "description": "A lush flower with large, showy blooms that come in a variety of colors.",
-            "image": "http://example.com/peony.jpg",
-            "features": [
-                "Lush",
-                "Showy blooms",
-                "Variety of colors"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 41,
-            "name": "Cosmos",
-            "scientific_name": "Cosmos bipinnatus",
-            "color": "Pink",
-            "description": "A graceful flower with daisy-like blooms and feathery leaves.",
-            "image": "http://example.com/cosmos.jpg",
-            "features": [
-                "Graceful",
-                "Daisy-like blooms",
-                "Feathery leaves"
-            ],
-            "category": "Annual"
-        },
-        {
-            "id": 43,
-            "name": "Anemone",
-            "scientific_name": "Anemone",
-            "color": "White",
-            "description": "A delicate flower with daisy-like blooms and a dark center.",
-            "image": "https://t2.gstatic.com/licensed-image?q=tbn:ANd9GcS8aEWw_t_dwpdJg9omTnVOTRkEi6raoP45PtMdtHG3quvsnphGA78RjDwKorjFhyGrmKw4H0_GY-Ql6F8",
-            "featured": true,
-            "features": [
-                "Delicate",
-                "Daisy-like blooms",
-                "Dark center"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 44,
-            "name": "Chrysanthemum",
-            "scientific_name": "Chrysanthemum",
-            "color": "Yellow",
-            "description": "A cheerful flower with daisy-like blooms that come in a variety of colors.",
-            "image": "https://cdn.britannica.com/09/174809-050-CA9F8F8C/daisy-mums-ray-flowers-disk-centre.jpg",
-            "featured": true,
-            "features": [
-                "Cheerful",
-                "Daisy-like blooms",
-                "Variety of colors"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 45,
-            "name": "Bleeding Heart",
-            "scientific_name": "Lamprocapnos spectabilis",
-            "color": "Pink",
-            "description": "A romantic flower with heart-shaped, pink blooms that hang from arching stems.",
-            "image": "https://t3.gstatic.com/licensed-image?q=tbn:ANd9GcQ7uq8aO866dW87RLvndQQvKkn22uT7UxIojgp0Qq_YZVw-dSJ4mRjp_3gkeL7FqeV1ilqARMenjIEj0EY",
-            "featured": true,
-            "features": [
-                "Romantic",
-                "Heart-shaped blooms",
-                "Arched stems"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 46,
-            "name": "Coreopsis",
-            "scientific_name": "Coreopsis",
-            "color": "Yellow",
-            "description": "A cheerful flower with daisy-like blooms that come in shades of yellow, orange, and red.",
-            "image": "http://example.com/coreopsis.jpg",
-            "features": [
-                "Cheerful",
-                "Daisy-like blooms",
-                "Variety of colors"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 47,
-            "name": "Hibiscus",
-            "scientific_name": "Hibiscus",
-            "color": "Pink",
-            "description": "A tropical flower with large, showy blooms that come in a variety of colors.",
-            "image": "http://example.com/hibiscus.jpg",
-            "features": [
-                "Tropical",
-                "Showy blooms",
-                "Variety of colors"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 48,
-            "name": "Dahlia",
-            "scientific_name": "Dahlia",
-            "color": "Red",
-            "description": "A flamboyant flower with large, showy blooms that come in a variety of colors and shapes.",
-            "image": "http://example.com/dahlia.jpg",
-            "features": [
-                "Flamboyant",
-                "Showy blooms",
-                "Variety of colors and shapes"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 49,
-            "name": "Freesia",
-            "scientific_name": "Freesia",
-            "color": "Purple",
-            "description": "A fragrant flower with funnel-shaped blooms that come in a range of colors.",
-            "image": "http://example.com/freesia.jpg",
-            "features": [
-                "Fragrant",
-                "Funnel-shaped blooms",
-                "Variety of colors"
-            ],
-            "category": "Perennial"
-        },
-        {
-            "id": 50,
-            "name": "Foxglove",
-            "scientific_name": "Digitalis purpurea",
-            "color": "Purple",
-            "description": "A stately flower with tall spikes of tubular blooms in shades of pink, purple, and white.",
-            "image": "http://example.com/foxglove.jpg",
-            "features": [
-                "Stately",
-                "Tall spikes",
-                "Tubular blooms"
-            ],
-            "category": "Biennial"
-        }
-    ]
-}
+[
+    {
+        "flowers": [
+            {
+                "id": 1,
+                "name": "Roses",
+                "description": "Beautiful bouquet of roses, perfect for any occasion",
+                "price": 24.99,
+                "images": [
+                    "https://example.com/flowers/roses1.jpg",
+                    "https://example.com/flowers/roses2.jpg",
+                    "https://example.com/flowers/roses3.jpg",
+                    "https://example.com/flowers/roses4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Rose Bouquets",
+                "type": "Fresh",
+                "color": "Red",
+                "quantity": 10,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.5
+            },
+            {
+                "id": 2,
+                "name": "Daisies",
+                "description": "Cheerful daisy bouquet, perfect for birthdays and get well soon wishes",
+                "price": 19.99,
+                "images": [
+                    "https://example.com/flowers/daisies1.jpg",
+                    "https://example.com/flowers/daisies2.jpg",
+                    "https://example.com/flowers/daisies3.jpg",
+                    "https://example.com/flowers/daisies4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Daisy Bouquets",
+                "type": "Fresh",
+                "color": "White and Yellow",
+                "quantity": 15,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.2
+            },
+            {
+                "id": 3,
+                "name": "Lilies",
+                "description": "Elegant lily bouquet, perfect for weddings and special occasions",
+                "price": 29.99,
+                "images": [
+                    "https://example.com/flowers/lilies1.jpg",
+                    "https://example.com/flowers/lilies2.jpg",
+                    "https://example.com/flowers/lilies3.jpg",
+                    "https://example.com/flowers/lilies4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Lily Bouquets",
+                "type": "Fresh",
+                "color": "White",
+                "quantity": 5,
+                "availability": "Out of Stock",
+                "featured": false,
+                "ratings": 4.8
+            },
+            {
+                "id": 4,
+                "name": "Tulips",
+                "description": "Colorful tulip bouquet, perfect for springtime celebrations",
+                "price": 21.99,
+                "images": [
+                    "https://example.com/flowers/tulips1.jpg",
+                    "https://example.com/flowers/tulips2.jpg",
+                    "https://example.com/flowers/tulips3.jpg",
+                    "https://example.com/flowers/tulips4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Tulip Bouquets",
+                "type": "Fresh",
+                "color": "Mixed",
+                "quantity": 20,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.3
+            },
+            {
+                "id": 5,
+                "name": "Sunflowers",
+                "description": "Bright and cheerful sunflower bouquet, perfect for summer occasions",
+                "price": 26.99,
+                "images": [
+                    "https://example.com/flowers/sunflowers1.jpg",
+                    "https://example.com/flowers/sunflowers2.jpg",
+                    "https://example.com/flowers/sunflowers3.jpg",
+                    "https://example.com/flowers/sunflowers4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Sunflower Bouquets",
+                "type": "Fresh",
+                "color": "Yellow",
+                "quantity": 8,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.6
+            },
+            {
+                "id": 6,
+                "name": "Orchids",
+                "description": "Exotic and luxurious orchid bouquet, perfect for special occasions",
+                "price": 39.99,
+                "images": [
+                    "https://example.com/flowers/orchids1.jpg",
+                    "https://example.com/flowers/orchids2.jpg",
+                    "https://example.com/flowers/orchids3.jpg",
+                    "https://example.com/flowers/orchids4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Orchid Bouquets",
+                "type": "Fresh",
+                "color": "Pink",
+                "quantity": 3,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.9
+            },
+            {
+                "id": 7,
+                "name": "Carnations",
+                "description": "Classic and timeless carnation bouquet, perfect for any occasion",
+                "price": 17.99,
+                "images": [
+                    "https://example.com/flowers/carnations1.jpg",
+                    "https://example.com/flowers/carnations2.jpg",
+                    "https://example.com/flowers/carnations3.jpg",
+                    "https://example.com/flowers/carnations4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Carnation Bouquets",
+                "type": "Fresh",
+                "color": "Mixed",
+                "quantity": 12,
+                "availability": "In Stock",
+                "featured": false,
+                "ratings": 4.1
+            },
+            {
+                "id": 8,
+                "name": "Peonies",
+                "description": "Romantic and delicate peony bouquet, perfect for weddings and anniversaries",
+                "price": 32.99,
+                "images": [
+                    "https://example.com/flowers/peonies1.jpg",
+                    "https://example.com/flowers/peonies2.jpg",
+                    "https://example.com/flowers/peonies3.jpg",
+                    "https://example.com/flowers/peonies4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Peony Bouquets",
+                "type": "Fresh",
+                "color": "Pink",
+                "quantity": 7,
+                "availability": "Out of Stock",
+                "featured": false,
+                "ratings": 4.7
+            },
+            {
+                "id": 9,
+                "name": "Hydrangeas",
+                "description": "Large and stunning hydrangea bouquet, perfect for grand gestures",
+                "price": 44.99,
+                "images": [
+                    "https://example.com/flowers/hydrangeas1.jpg",
+                    "https://example.com/flowers/hydrangeas2.jpg",
+                    "https://example.com/flowers/hydrangeas3.jpg",
+                    "https://example.com/flowers/hydrangeas4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Hydrangea,Bouquets",
+                "type": "Fresh",
+                "color": "White",
+                "quantity": 5,
+                "availability": "In Stock",
+                "featured": false,
+                "ratings": 4.4
+            },
+            {
+                "id": 10,
+                "name": "Daisies",
+                "description": "Cheerful and bright daisy bouquet, perfect for expressing happiness and gratitude",
+                "price": 21.99,
+                "images": [
+                    "https://example.com/flowers/daisies1.jpg",
+                    "https://example.com/flowers/daisies2.jpg",
+                    "https://example.com/flowers/daisies3.jpg",
+                    "https://example.com/flowers/daisies4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Daisy Bouquets",
+                "type": "Fresh",
+                "color": "Mixed",
+                "quantity": 10,
+                "availability": "In Stock",
+                "featured": false,
+                "ratings": 4.2
+            },
+            {
+                "id": 11,
+                "name": "Tulips",
+                "description": "Elegant and sophisticated tulip bouquet, perfect for special occasions",
+                "price": 29.99,
+                "images": [
+                    "https://example.com/flowers/tulips1.jpg",
+                    "https://example.com/flowers/tulips2.jpg",
+                    "https://example.com/flowers/tulips3.jpg",
+                    "https://example.com/flowers/tulips4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Tulip Bouquets",
+                "type": "Fresh",
+                "color": "Red",
+                "quantity": 6,
+                "availability": "In Stock",
+                "featured": false,
+                "ratings": 4.5
+            },
+            {
+                "id": 12,
+                "name": "Lilies",
+                "description": "Fragrant and elegant lily bouquet, perfect for expressing sympathy and condolences",
+                "price": 34.99,
+                "images": [
+                    "https://example.com/flowers/lilies1.jpg",
+                    "https://example.com/flowers/lilies2.jpg",
+                    "https://example.com/flowers/lilies3.jpg",
+                    "https://example.com/flowers/lilies4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Lily Bouquets",
+                "type": "Fresh",
+                "color": "White",
+                "quantity": 4,
+                "availability": "In Stock",
+                "featured": false,
+                "ratings": 4.3
+            },
+            {
+                "id": 13,
+                "name": "Roses",
+                "description": "Classic and timeless rose bouquet, perfect for expressing love and romance",
+                "price": 49.99,
+                "images": [
+                    "https://example.com/flowers/roses1.jpg",
+                    "https://example.com/flowers/roses2.jpg",
+                    "https://example.com/flowers/roses3.jpg",
+                    "https://example.com/flowers/roses4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Rose Bouquets",
+                "type": "Fresh",
+                "color": "Red",
+                "quantity": 12,
+                "availability": "In Stock",
+                "featured": false,
+                "ratings": 4.8
+            },
+            {
+                "id": 14,
+                "name": "Cactus",
+                "description": "Low-maintenance and trendy cactus plant, perfect for adding some greenery to any space",
+                "price": 9.99,
+                "images": [
+                    "https://example.com/flowers/cactus1.jpg",
+                    "https://example.com/flowers/cactus2.jpg",
+                    "https://example.com/flowers/cactus3.jpg",
+                    "https://example.com/flowers/cactus4.jpg"
+                ],
+                "category": "Plants",
+                "sub_category": "Cacti",
+                "type": "Indoor",
+                "color": "Green",
+                "quantity": 20,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.1
+            },
+            {
+                "id": 15,
+                "name": "Succulents",
+                "description": "Assortment of various succulent plants, perfect for creating a desert oasis in your home",
+                "price": 14.99,
+                "images": [
+                    "https://example.com/flowers/succulents1.jpg",
+                    "https://example.com/flowers/succulents2.jpg",
+                    "https://example.com/flowers/succulents3.jpg",
+                    "https://example.com/flowers/succulents4.jpg"
+                ],
+                "category": "Plants",
+                "sub_category": "Succulents",
+                "type": "Indoor",
+                "color": "Mixed",
+                "quantity": 15,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.6
+            },
+            {
+                "id": 16,
+                "name": "Orchids",
+                "description": "Exotic and luxurious orchid bouquet, perfect for adding a touch of elegance to any space",
+                "price": 39.99,
+                "images": [
+                    "https://example.com/flowers/orchids1.jpg",
+                    "https://example.com/flowers/orchids2.jpg",
+                    "https://example.com/flowers/orchids3.jpg",
+                    "https://example.com/flowers/orchids4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Orchid Bouquets",
+                "type": "Fresh",
+                "color": "Purple",
+                "quantity": 6,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.7
+            },
+            {
+                "id": 17,
+                "name": "Daffodils",
+                "description": "Cheerful and bright daffodil bouquet, perfect for celebrating spring",
+                "price": 19.99,
+                "images": [
+                    "https://example.com/flowers/daffodils1.jpg",
+                    "https://example.com/flowers/daffodils2.jpg",
+                    "https://example.com/flowers/daffodils3.jpg",
+                    "https://example.com/flowers/daffodils4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Daffodil Bouquets",
+                "type": "Fresh",
+                "color": "Yellow",
+                "quantity": 8,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.4
+            },
+            {
+                "id": 18,
+                "name": "Hydrangeas",
+                "description": "Beautiful and delicate hydrangea bouquet, perfect for creating a romantic atmosphere",
+                "price": 27.99,
+                "images": [
+                    "https://example.com/flowers/hydrangeas1.jpg",
+                    "https://example.com/flowers/hydrangeas2.jpg",
+                    "https://example.com/flowers/hydrangeas3.jpg",
+                    "https://example.com/flowers/hydrangeas4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Hydrangea Bouquets",
+                "type": "Fresh",
+                "color": "Pink",
+                "quantity": 4,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.9
+            },
+            {
+                "id": 19,
+                "name": "Chrysanthemums",
+                "description": "Traditional and vibrant chrysanthemum bouquet, perfect for celebrating special occasions",
+                "price": 21.99,
+                "images": [
+                    "https://example.com/flowers/chrysanthemums1.jpg",
+                    "https://example.com/flowers/chrysanthemums2.jpg",
+                    "https://example.com/flowers/chrysanthemums3.jpg",
+                    "https://example.com/flowers/chrysanthemums4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Chrysanthemum Bouquets",
+                "type": "Fresh",
+                "color": "Mixed",
+                "quantity": 10,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.5
+            },
+            {
+                "id": 20,
+                "name": "Daisies",
+                "description": "Classic and charming daisy bouquet, perfect for adding some cheer to any space",
+                "price": 16.99,
+                "images": [
+                    "https://example.com/flowers/daisies1.jpg",
+                    "https://example.com/flowers/daisies2.jpg",
+                    "https://example.com/flowers/daisies3.jpg",
+                    "https://example.com/flowers/daisies4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Daisy Bouquets",
+                "type": "Fresh",
+                "color": "White",
+                "quantity": 12,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.3
+            },
+            {
+                "id": 21,
+                "name": "Tulips",
+                "description": "Elegant and refined tulip bouquet, perfect for special occasions",
+                "price": 29.99,
+                "images": [
+                    "https://example.com/flowers/tulips1.jpg",
+                    "https://example.com/flowers/tulips2.jpg",
+                    "https://example.com/flowers/tulips3.jpg",
+                    "https://example.com/flowers/tulips4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Tulip Bouquets",
+                "type": "Fresh",
+                "color": "Red",
+                "quantity": 6,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.8
+            },
+            {
+                "id": 22,
+                "name": "Lilies",
+                "description": "Exquisite and luxurious lily bouquet, perfect for adding some sophistication to your space",
+                "price": 44.99,
+                "images": [
+                    "https://example.com/flowers/lilies1.jpg",
+                    "https://example.com/flowers/lilies2.jpg",
+                    "https://example.com/flowers/lilies3.jpg",
+                    "https://example.com/flowers/lilies4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Lily Bouquets",
+                "type": "Fresh",
+                "color": "White",
+                "quantity": 8,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.7
+            },
+            {
+                "id": 23,
+                "name": "Roses",
+                "description": "Classic and timeless rose bouquet, perfect for expressing your love and affection",
+                "price": 39.99,
+                "images": [
+                    "https://example.com/flowers/roses1.jpg",
+                    "https://example.com/flowers/roses2.jpg",
+                    "https://example.com/flowers/roses3.jpg",
+                    "https://example.com/flowers/roses4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Rose Bouquets",
+                "type": "Fresh",
+                "color": "Red",
+                "quantity": 12,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.9
+            },
+            {
+                "id": 24,
+                "name": "Peonies",
+                "description": "Romantic and delicate peony bouquet, perfect for weddings and special occasions",
+                "price": 49.99,
+                "images": [
+                    "https://example.com/flowers/peonies1.jpg",
+                    "https://example.com/flowers/peonies2.jpg",
+                    "https://example.com/flowers/peonies3.jpg",
+                    "https://example.com/flowers/peonies4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Peony Bouquets",
+                "type": "Fresh",
+                "color": "Pink",
+                "quantity": 6,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.8
+            },
+            {
+                "id": 25,
+                "name": "Orchids",
+                "description": "Exotic and graceful orchid bouquet, perfect for adding some elegance to your space",
+                "price": 34.99,
+                "images": [
+                    "https://example.com/flowers/orchids1.jpg",
+                    "https://example.com/flowers/orchids2.jpg",
+                    "https://example.com/flowers/orchids3.jpg",
+                    "https://example.com/flowers/orchids4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Orchid Bouquets",
+                "type": "Fresh",
+                "color": "Purple",
+                "quantity": 5,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.6
+            },
+            {
+                "id": 26,
+                "name": "Sunflowers",
+                "description": "Bright and cheerful sunflower bouquet, perfect for adding some happiness to your space",
+                "price": 22.99,
+                "images": [
+                    "https://example.com/flowers/sunflowers1.jpg",
+                    "https://example.com/flowers/sunflowers2.jpg",
+                    "https://example.com/flowers/sunflowers3.jpg",
+                    "https://example.com/flowers/sunflowers4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Sunflower Bouquets",
+                "type": "Fresh",
+                "color": "Yellow",
+                "quantity": 10,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.2
+            },
+            {
+                "id": 27,
+                "name": "Lilies",
+                "description": "Elegant and sophisticated lily bouquet, perfect for expressing your sympathy and condolences",
+                "price": 29.99,
+                "images": [
+                    "https://example.com/flowers/lilies1.jpg",
+                    "https://example.com/flowers/lilies2.jpg",
+                    "https://example.com/flowers/lilies3.jpg",
+                    "https://example.com/flowers/lilies4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Lily Bouquets",
+                "type": "Fresh",
+                "color": "Pink",
+                "quantity": 7,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.5
+            },
+            {
+                "id": 28,
+                "name": "Tulips",
+                "description": "Fresh and colorful tulip bouquet, perfect for celebrating spring",
+                "price": 18.99,
+                "images": [
+                    "https://example.com/flowers/tulips1.jpg",
+                    "https://example.com/flowers/tulips2.jpg",
+                    "https://example.com/flowers/tulips3.jpg",
+                    "https://example.com/flowers/tulips4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Tulip Bouquets",
+                "type": "Fresh",
+                "color": "Multicolor",
+                "quantity": 15,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.4
+            },
+            {
+                "id": 29,
+                "name": "Carnations",
+                "description": "Soft and delicate carnation bouquet, perfect for expressing your gratitude and appreciation",
+                "price": 27.99,
+                "images": [
+                    "https://example.com/flowers/carnations1.jpg",
+                    "https://example.com/flowers/carnations2.jpg",
+                    "https://example.com/flowers/carnations3.jpg",
+                    "https://example.com/flowers/carnations4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Carnation Bouquets",
+                "type": "Fresh",
+                "color": "White",
+                "quantity": 9,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.3
+            },
+            {
+                "id": 30,
+                "name": "Daisies",
+                "description": "Cheerful and playful daisy bouquet, perfect for adding some fun to your space",
+                "price": 21.99,
+                "images": [
+                    "https://example.com/flowers/daisies1.jpg",
+                    "https://example.com/flowers/daisies2.jpg",
+                    "https://example.com/flowers/daisies3.jpg",
+                    "https://example.com/flowers/daisies4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Daisy Bouquets",
+                "type": "Fresh",
+                "color": "Multicolor",
+                "quantity": 12,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.1
+            },
+            {
+                "id": 31,
+                "name": "Lavender",
+                "description": "Relaxing and soothing lavender bouquet, perfect for creating a peaceful atmosphere",
+                "price": 32.99,
+                "images": [
+                    "https://example.com/flowers/lavender1.jpg",
+                    "https://example.com/flowers/lavender2.jpg",
+                    "https://example.com/flowers/lavender3.jpg",
+                    "https://example.com/flowers/lavender4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Lavender Bouquets",
+                "type": "Fresh",
+                "color": "Purple",
+                "quantity": 6,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.2
+            },
+            {
+                "id": 32,
+                "name": "Orchids",
+                "description": "Exotic and elegant orchid bouquet, perfect for adding some sophistication to your space",
+                "price": 49.99,
+                "images": [
+                    "https://example.com/flowers/orchids1.jpg",
+                    "https://example.com/flowers/orchids2.jpg",
+                    "https://example.com/flowers/orchids3.jpg",
+                    "https://example.com/flowers/orchids4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Orchid Bouquets",
+                "type": "Fresh",
+                "color": "White",
+                "quantity": 3,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.8
+            },
+            {
+                "id": 33,
+                "name": "Sunflowers",
+                "description": "Bright and cheerful sunflower bouquet, perfect for adding some sunshine to your space",
+                "price": 24.99,
+                "images": [
+                    "https://example.com/flowers/sunflowers1.jpg",
+                    "https://example.com/flowers/sunflowers2.jpg",
+                    "https://example.com/flowers/sunflowers3.jpg",
+                    "https://example.com/flowers/sunflowers4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Sunflower Bouquets",
+                "type": "Fresh",
+                "color": "Yellow",
+                "quantity": 10,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.6
+            },
+            {
+                "id": 34,
+                "name": "Roses",
+                "description": "Classic and romantic rose bouquet, perfect for expressing your love and affection",
+                "price": 39.99,
+                "images": [
+                    "https://example.com/flowers/roses1.jpg",
+                    "https://example.com/flowers/roses2.jpg",
+                    "https://example.com/flowers/roses3.jpg",
+                    "https://example.com/flowers/roses4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Rose Bouquets",
+                "type": "Fresh",
+                "color": "Red",
+                "quantity": 8,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.7
+            },
+            {
+                "id": 35,
+                "name": "Tulips",
+                "description": "Colorful and vibrant tulip bouquet, perfect for brightening up any room",
+                "price": 29.99,
+                "images": [
+                    "https://example.com/flowers/tulips1.jpg",
+                    "https://example.com/flowers/tulips2.jpg",
+                    "https://example.com/flowers/tulips3.jpg",
+                    "https://example.com/flowers/tulips4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Tulip Bouquets",
+                "type": "Fresh",
+                "color": "Mixed",
+                "quantity": 12,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.5
+            },
+            {
+                "id": 36,
+                "name": "Lilies",
+                "description": "Elegant and fragrant lily bouquet, perfect for special occasions and events",
+                "price": 59.99,
+                "images": [
+                    "https://example.com/flowers/lilies1.jpg",
+                    "https://example.com/flowers/lilies2.jpg",
+                    "https://example.com/flowers/lilies3.jpg",
+                    "https://example.com/flowers/lilies4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Lily Bouquets",
+                "type": "Fresh",
+                "color": "White",
+                "quantity": 5,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.9
+            },
+            {
+                "id": 37,
+                "name": "Peonies",
+                "description": "Soft and romantic peony bouquet, perfect for weddings and other special events",
+                "price": 79.99,
+                "images": [
+                    "https://example.com/flowers/peonies1.jpg",
+                    "https://example.com/flowers/peonies2.jpg",
+                    "https://example.com/flowers/peonies3.jpg",
+                    "https://example.com/flowers/peonies4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Peony Bouquets",
+                "type": "Fresh",
+                "color": "Pink",
+                "quantity": 4,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.7
+            },
+            {
+                "id": 38,
+                "name": "Daisies",
+                "description": "Cheerful and bright daisy bouquet, perfect for sending a smile to someone special",
+                "price": 19.99,
+                "images": [
+                    "https://example.com/flowers/daisies1.jpg",
+                    "https://example.com/flowers/daisies2.jpg",
+                    "https://example.com/flowers/daisies3.jpg",
+                    "https://example.com/flowers/daisies4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Daisy Bouquets",
+                "type": "Fresh",
+                "color": "Mixed",
+                "quantity": 15,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.4
+            },
+            {
+                "id": 39,
+                "name": "Carnations",
+                "description": "Classic and timeless carnation bouquet, perfect for any occasion",
+                "price": 29.99,
+                "images": [
+                    "https://example.com/flowers/carnations1.jpg",
+                    "https://example.com/flowers/carnations2.jpg",
+                    "https://example.com/flowers/carnations3.jpg",
+                    "https://example.com/flowers/carnations4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Carnation Bouquets",
+                "type": "Fresh",
+                "color": "Red",
+                "quantity": 10,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.3
+            },
+            {
+                "id": 40,
+                "name": "Orchids",
+                "description": "Exotic and luxurious orchid bouquet, perfect for making a statement",
+                "price": 99.99,
+                "images": [
+                    "https://example.com/flowers/orchids1.jpg",
+                    "https://example.com/flowers/orchids2.jpg",
+                    "https://example.com/flowers/orchids3.jpg",
+                    "https://example.com/flowers/orchids4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Orchid Bouquets",
+                "type": "Fresh",
+                "color": "Purple",
+                "quantity": 3,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.8
+            },
+            {
+                "id": 41,
+                "name": "Sunflowers",
+                "description": "Bright and cheerful sunflower bouquet, perfect for bringing a little sunshine into someone's day",
+                "price": 24.99,
+                "images": [
+                    "https://example.com/flowers/sunflowers1.jpg",
+                    "https://example.com/flowers/sunflowers2.jpg",
+                    "https://example.com/flowers/sunflowers3.jpg",
+                    "https://example.com/flowers/sunflowers4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Sunflower Bouquets",
+                "type": "Fresh",
+                "color": "Yellow",
+                "quantity": 10,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.5
+            },
+            {
+                "id": 42,
+                "name": "Roses",
+                "description": "Classic and romantic rose bouquet, perfect for expressing love and affection",
+                "price": 39.99,
+                "images": [
+                    "https://example.com/flowers/roses1.jpg",
+                    "https://example.com/flowers/roses2.jpg",
+                    "https://example.com/flowers/roses3.jpg",
+                    "https://example.com/flowers/roses4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Rose Bouquets",
+                "type": "Fresh",
+                "color": "Red",
+                "quantity": 12,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.6
+            },
+            {
+                "id": 43,
+                "name": "Hydrangeas",
+                "description": "Beautiful and full hydrangea bouquet, perfect for adding a touch of elegance to any space",
+                "price": 49.99,
+                "images": [
+                    "https://example.com/flowers/hydrangeas1.jpg",
+                    "https://example.com/flowers/hydrangeas2.jpg",
+                    "https://example.com/flowers/hydrangeas3.jpg",
+                    "https://example.com/flowers/hydrangeas4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Hydrangea Bouquets",
+                "type": "Fresh",
+                "color": "Blue",
+                "quantity": 5,
+                "availability": "In Stock",
+                "featured": false,
+                "ratings": 4.2
+            },
+            {
+                "id": 44,
+                "name": "Lilies",
+                "description": "Elegant and fragrant lily bouquet, perfect for adding a touch of sophistication to any occasion",
+                "price": 34.99,
+                "images": [
+                    "https://example.com/flowers/lilies1.jpg",
+                    "https://example.com/flowers/lilies2.jpg",
+                    "https://example.com/flowers/lilies3.jpg",
+                    "https://example.com/flowers/lilies4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Lily Bouquets",
+                "type": "Fresh",
+                "color": "White",
+                "quantity": 7,
+                "availability": "In Stock",
+                "featured": false,
+                "ratings": 4.7
+            },
+            {
+                "id": 45,
+                "name": "Tulips",
+                "description": "Fresh and colorful tulip bouquet, perfect for brightening up any room",
+                "price": 19.99,
+                "images": [
+                    "https://example.com/flowers/tulips1.jpg",
+                    "https://example.com/flowers/tulips2.jpg",
+                    "https://example.com/flowers/tulips3.jpg",
+                    "https://example.com/flowers/tulips4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Tulip Bouquets",
+                "type": "Fresh",
+                "color": "Assorted",
+                "quantity": 20,
+                "availability": "In Stock",
+                "featured": false,
+                "ratings": 4.4
+            },
+            {
+                "id": 46,
+                "name": "Daffodils",
+                "description": "Cheerful and bright daffodil bouquet, perfect for celebrating spring",
+                "price": 14.99,
+                "images": [
+                    "https://example.com/flowers/daffodils1.jpg",
+                    "https://example.com/flowers/daffodils2.jpg",
+                    "https://example.com/flowers/daffodils3.jpg",
+                    "https://example.com/flowers/daffodils4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Daffodil Bouquets",
+                "type": "Fresh",
+                "color": "Yellow",
+                "quantity": 15,
+                "availability": "In Stock",
+                "featured": false,
+                "ratings": 4.1
+            },
+            {
+                "id": 47,
+                "name": "Peonies",
+                "description": "Romantic and luxurious peony bouquet, perfect for special occasions",
+                "price": 79.99,
+                "images": [
+                    "https://example.com/flowers/peonies1.jpg",
+                    "https://example.com/flowers/peonies2.jpg",
+                    "https://example.com/flowers/peonies3.jpg",
+                    "https://example.com/flowers/peonies4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Peony Bouquets",
+                "type": "Fresh",
+                "color": "Pink",
+                "quantity": 4,
+                "availability": "In Stock",
+                "featured": false,
+                "ratings": 4.9
+            },
+            {
+                "id": 48,
+                "name": "Roses",
+                "description": "Classic and timeless rose bouquet, perfect for expressing love and affection",
+                "price": 49.99,
+                "images": [
+                    "https://example.com/flowers/roses1.jpg",
+                    "https://example.com/flowers/roses2.jpg",
+                    "https://example.com/flowers/roses3.jpg",
+                    "https://example.com/flowers/roses4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Rose Bouquets",
+                "type": "Fresh",
+                "color": "Red",
+                "quantity": 10,
+                "availability": "In Stock",
+                "featured": true,
+                "ratings": 4.8
+            },
+            {
+                "id": 49,
+                "name": "Orchids",
+                "description": "Exotic and elegant orchid bouquet, perfect for adding a touch of sophistication to any room",
+                "price": 59.99,
+                "images": [
+                    "https://example.com/flowers/orchids1.jpg",
+                    "https://example.com/flowers/orchids2.jpg",
+                    "https://example.com/flowers/orchids3.jpg",
+                    "https://example.com/flowers/orchids4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Orchid Bouquets",
+                "type": "Fresh",
+                "color": "Purple",
+                "quantity": 6,
+                "availability": "In Stock",
+                "featured": false,
+                "ratings": 4.6
+            },
+            {
+                "id": 50,
+                "name": "Carnations",
+                "description": "Charming and cheerful carnation bouquet, perfect for any occasion",
+                "price": 24.99,
+                "images": [
+                    "https://example.com/flowers/carnations1.jpg",
+                    "https://example.com/flowers/carnations2.jpg",
+                    "https://example.com/flowers/carnations3.jpg",
+                    "https://example.com/flowers/carnations4.jpg"
+                ],
+                "category": "Flowers",
+                "sub_category": "Carnation Bouquets",
+                "type": "Fresh",
+                "color": "Pink",
+                "quantity": 12,
+                "availability": "In Stock",
+                "featured": false,
+                "ratings": 4.3
+            }
+        ]
+    }
+]
