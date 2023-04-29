@@ -6,10 +6,10 @@
             "description": "Beautiful bouquet of roses, perfect for any occasion",
             "price": 24.99,
             "images": [
-                "https://example.com/flowers/roses1.jpg",
-                "https://example.com/flowers/roses2.jpg",
-                "https://example.com/flowers/roses3.jpg",
-                "https://example.com/flowers/roses4.jpg"
+                "https://media.istockphoto.com/id/1358622602/photo/red-rose-flower-head-white-background.jpg?b=1&s=170667a&w=0&k=20&c=VF6JTdkEX2UKq8ka8wBH8P_Z7xi4flBuFjGux-RSONM=",
+                "https://media.istockphoto.com/id/1448176507/photo/dark-red-rose-with-a-green-leaves.jpg?b=1&s=170667a&w=0&k=20&c=8VJqY1NgnjaPipn-rMY8BJsZ-hFIG3X0HxTdhQ2AcGo=",
+                "https://cdn.pixabay.com/photo/2013/08/22/19/18/flowers-174817_960_720.jpg",
+                "https://cdn.pixabay.com/photo/2012/03/01/00/55/flowers-19830_960_720.jpg"
             ],
             "category": "Flowers",
             "sub_category": "Rose Bouquets",
@@ -26,10 +26,10 @@
             "description": "Cheerful daisy bouquet, perfect for birthdays and get well soon wishes",
             "price": 19.99,
             "images": [
-                "https://example.com/flowers/daisies1.jpg",
-                "https://example.com/flowers/daisies2.jpg",
-                "https://example.com/flowers/daisies3.jpg",
-                "https://example.com/flowers/daisies4.jpg"
+                "https://cdn.britannica.com/36/82536-050-7E968918/Shasta-daisies.jpg",
+                "https://www.gardeningknowhow.com/wp-content/uploads/2020/06/daisies.jpg",
+                "https://www.allaboutgardening.com/wp-content/uploads/2022/07/Wild-Daisy-in-Field-1200x667.jpg",
+                "https://www.thespruce.com/thmb/OdKoopYOFYS4Pj5ObzQQAEQf0I8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/daisy-types-for-gardens-1316051-04-e0f4e84f081d452885752e84bc7886ed.jpg"
             ],
             "category": "Flowers",
             "sub_category": "Daisy Bouquets",
@@ -46,10 +46,10 @@
             "description": "Elegant lily bouquet, perfect for weddings and special occasions",
             "price": 29.99,
             "images": [
-                "https://example.com/flowers/lilies1.jpg",
-                "https://example.com/flowers/lilies2.jpg",
-                "https://example.com/flowers/lilies3.jpg",
-                "https://example.com/flowers/lilies4.jpg"
+                "https://www.almanac.com/sites/default/files/styles/or/public/image_nodes/pink%20lilies-Anastasios71-SS.jpeg?itok=mmh-o8yf",
+                "https://plantura.garden/uk/wp-content/uploads/sites/2/2022/08/lily-care-pink.jpg",
+                "https://www.google.com/search?q=Lilies&client=firefox-b-d&sxsrf=APwXEddlpVsjewBSqQ8YVFhzEQYkpm951w:1682788080292&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjN8oeOys_-AhUMXmwGHbKKBSYQ_AUoAXoECAEQAw&biw=1366&bih=607&dpr=1#imgrc=ctfWLiVQ_Px8VM&imgdii=Caj29wJ4tGFIRM",
+                "https://www.gannett-cdn.com/presto/2022/04/08/NLAJ/84836c6b-45c4-4d50-9308-0ae96462b90a-Lilium_flower_aj.JPG"
             ],
             "category": "Flowers",
             "sub_category": "Lily Bouquets",
@@ -57,7 +57,7 @@
             "color": "White",
             "quantity": 5,
             "availability": "Out of Stock",
-            "featured": false,
+            "featured": true,
             "ratings": 4.8
         },
         {
@@ -66,10 +66,10 @@
             "description": "Colorful tulip bouquet, perfect for springtime celebrations",
             "price": 21.99,
             "images": [
-                "https://example.com/flowers/tulips1.jpg",
-                "https://example.com/flowers/tulips2.jpg",
-                "https://example.com/flowers/tulips3.jpg",
-                "https://example.com/flowers/tulips4.jpg"
+                "https://cdn.britannica.com/38/227038-050-4FBE131C/Coloful-tulip-flowers.jpg",
+                "https://cf.ltkcdn.net/garden/images/orig/290972-1600x1066-tulips-in-garden.jpg",
+                "https://i0.wp.com/tulipfestivalamsterdam.com/wp-content/uploads/2017/09/bigstock-Blooming-Tulips-51437800.jpg?fit=4483%2C3264&ssl=1",
+                "https://keyassets.timeincuk.net/inspirewp/live/wp-content/uploads/sites/8/2022/10/M1MRAY-920x614.jpg"
             ],
             "category": "Flowers",
             "sub_category": "Tulip Bouquets",
@@ -77,7 +77,7 @@
             "color": "Mixed",
             "quantity": 20,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.3
         },
         {
@@ -86,10 +86,10 @@
             "description": "Bright and cheerful sunflower bouquet, perfect for summer occasions",
             "price": 26.99,
             "images": [
-                "https://example.com/flowers/sunflowers1.jpg",
-                "https://example.com/flowers/sunflowers2.jpg",
-                "https://example.com/flowers/sunflowers3.jpg",
-                "https://example.com/flowers/sunflowers4.jpg"
+                "https://thumbs.dreamstime.com/b/sunflowers-sunset-field-illuminated-as-sun-sets-behind-rocky-mountains-colorado-76261742.jpg",
+                "https://www.todocanada.ca/wp-content/uploads/Sunflower-Valley-Farms.jpg",
+                "https://flowerclub.com.au/wp-content/uploads/2021/07/Untitled-design-2021-07-09T110631.135.png",
+                "https://chilliwacksunflowerfest.com/wp-content/uploads/2019/08/IMG_4633.jpg"
             ],
             "category": "Flowers",
             "sub_category": "Sunflower Bouquets",
@@ -97,7 +97,7 @@
             "color": "Yellow",
             "quantity": 8,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.6
         },
         {
@@ -117,7 +117,7 @@
             "color": "Pink",
             "quantity": 3,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.9
         },
         {
@@ -277,7 +277,7 @@
             "color": "Green",
             "quantity": 20,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.1
         },
         {
@@ -297,7 +297,7 @@
             "color": "Mixed",
             "quantity": 15,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.6
         },
         {
@@ -317,7 +317,7 @@
             "color": "Purple",
             "quantity": 6,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.7
         },
         {
@@ -337,7 +337,7 @@
             "color": "Yellow",
             "quantity": 8,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.4
         },
         {
@@ -357,7 +357,7 @@
             "color": "Pink",
             "quantity": 4,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.9
         },
         {
@@ -377,7 +377,7 @@
             "color": "Mixed",
             "quantity": 10,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.5
         },
         {
@@ -397,7 +397,7 @@
             "color": "White",
             "quantity": 12,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.3
         },
         {
@@ -417,7 +417,7 @@
             "color": "Red",
             "quantity": 6,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.8
         },
         {
@@ -437,7 +437,7 @@
             "color": "White",
             "quantity": 8,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.7
         },
         {
@@ -457,7 +457,7 @@
             "color": "Red",
             "quantity": 12,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.9
         },
         {
@@ -477,7 +477,7 @@
             "color": "Pink",
             "quantity": 6,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.8
         },
         {
@@ -497,7 +497,7 @@
             "color": "Purple",
             "quantity": 5,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.6
         },
         {
@@ -517,7 +517,7 @@
             "color": "Yellow",
             "quantity": 10,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.2
         },
         {
@@ -537,7 +537,7 @@
             "color": "Pink",
             "quantity": 7,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.5
         },
         {
@@ -557,7 +557,7 @@
             "color": "Multicolor",
             "quantity": 15,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.4
         },
         {
@@ -577,7 +577,7 @@
             "color": "White",
             "quantity": 9,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.3
         },
         {
@@ -597,7 +597,7 @@
             "color": "Multicolor",
             "quantity": 12,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.1
         },
         {
@@ -617,7 +617,7 @@
             "color": "Purple",
             "quantity": 6,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.2
         },
         {
@@ -637,7 +637,7 @@
             "color": "White",
             "quantity": 3,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.8
         },
         {
@@ -657,7 +657,7 @@
             "color": "Yellow",
             "quantity": 10,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.6
         },
         {
@@ -677,7 +677,7 @@
             "color": "Red",
             "quantity": 8,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.7
         },
         {
@@ -697,7 +697,7 @@
             "color": "Mixed",
             "quantity": 12,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.5
         },
         {
@@ -717,7 +717,7 @@
             "color": "White",
             "quantity": 5,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.9
         },
         {
@@ -737,7 +737,7 @@
             "color": "Pink",
             "quantity": 4,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.7
         },
         {
@@ -757,7 +757,7 @@
             "color": "Mixed",
             "quantity": 15,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.4
         },
         {
@@ -777,7 +777,7 @@
             "color": "Red",
             "quantity": 10,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.3
         },
         {
@@ -797,7 +797,7 @@
             "color": "Purple",
             "quantity": 3,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.8
         },
         {
@@ -817,7 +817,7 @@
             "color": "Yellow",
             "quantity": 10,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.5
         },
         {
@@ -837,7 +837,7 @@
             "color": "Red",
             "quantity": 12,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.6
         },
         {
@@ -957,7 +957,7 @@
             "color": "Red",
             "quantity": 10,
             "availability": "In Stock",
-            "featured": true,
+            "featured": false,
             "ratings": 4.8
         },
         {
