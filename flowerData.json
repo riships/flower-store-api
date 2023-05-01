@@ -34,10 +34,18 @@
             "description": "Cheerful daisy bouquet, perfect for birthdays and get well soon wishes",
             "price": 19.99,
             "images": [
-                "https://cdn.britannica.com/36/82536-050-7E968918/Shasta-daisies.jpg",
-                "https://www.gardeningknowhow.com/wp-content/uploads/2020/06/daisies.jpg",
-                "https://www.allaboutgardening.com/wp-content/uploads/2022/07/Wild-Daisy-in-Field-1200x667.jpg",
-                "https://www.thespruce.com/thmb/OdKoopYOFYS4Pj5ObzQQAEQf0I8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/daisy-types-for-gardens-1316051-04-e0f4e84f081d452885752e84bc7886ed.jpg"
+                {
+                    "url": "https://cdn.britannica.com/36/82536-050-7E968918/Shasta-daisies.jpg"
+                },
+                {
+                    "url": "https://www.gardeningknowhow.com/wp-content/uploads/2020/06/daisies.jpg"
+                },
+                {
+                    "url": "https://www.allaboutgardening.com/wp-content/uploads/2022/07/Wild-Daisy-in-Field-1200x667.jpg"
+                },
+                {
+                    "url": "https://www.thespruce.com/thmb/OdKoopYOFYS4Pj5ObzQQAEQf0I8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/daisy-types-for-gardens-1316051-04-e0f4e84f081d452885752e84bc7886ed.jpg"
+                }
             ],
             "category": "Flowers",
             "sub_category": "Daisy Bouquets",
@@ -54,10 +62,18 @@
             "description": "Elegant lily bouquet, perfect for weddings and special occasions",
             "price": 29.99,
             "images": [
-                "https://www.almanac.com/sites/default/files/styles/or/public/image_nodes/pink%20lilies-Anastasios71-SS.jpeg?itok=mmh-o8yf",
-                "https://plantura.garden/uk/wp-content/uploads/sites/2/2022/08/lily-care-pink.jpg",
-                "https://www.google.com/search?q=Lilies&client=firefox-b-d&sxsrf=APwXEddlpVsjewBSqQ8YVFhzEQYkpm951w:1682788080292&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjN8oeOys_-AhUMXmwGHbKKBSYQ_AUoAXoECAEQAw&biw=1366&bih=607&dpr=1#imgrc=ctfWLiVQ_Px8VM&imgdii=Caj29wJ4tGFIRM",
-                "https://www.gannett-cdn.com/presto/2022/04/08/NLAJ/84836c6b-45c4-4d50-9308-0ae96462b90a-Lilium_flower_aj.JPG"
+                {
+                    "url": "https://www.almanac.com/sites/default/files/styles/or/public/image_nodes/pink%20lilies-Anastasios71-SS.jpeg?itok=mmh-o8yf"
+                },
+                {
+                    "url": "https://plantura.garden/uk/wp-content/uploads/sites/2/2022/08/lily-care-pink.jpg"
+                },
+                {
+                    "url": "https://www.google.com/search?q=Lilies&client=firefox-b-d&sxsrf=APwXEddlpVsjewBSqQ8YVFhzEQYkpm951w:1682788080292&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjN8oeOys_-AhUMXmwGHbKKBSYQ_AUoAXoECAEQAw&biw=1366&bih=607&dpr=1#imgrc=ctfWLiVQ_Px8VM&imgdii=Caj29wJ4tGFIRM"
+                },
+                {
+                    "url": "https://www.gannett-cdn.com/presto/2022/04/08/NLAJ/84836c6b-45c4-4d50-9308-0ae96462b90a-Lilium_flower_aj.JPG"
+                }
             ],
             "category": "Flowers",
             "sub_category": "Lily Bouquets",
