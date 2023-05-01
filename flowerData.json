@@ -6,10 +6,18 @@
             "description": "Beautiful bouquet of roses, perfect for any occasion",
             "price": 24.99,
             "images": [
-                "https://media.istockphoto.com/id/1358622602/photo/red-rose-flower-head-white-background.jpg?b=1&s=170667a&w=0&k=20&c=VF6JTdkEX2UKq8ka8wBH8P_Z7xi4flBuFjGux-RSONM=",
-                "https://media.istockphoto.com/id/1448176507/photo/dark-red-rose-with-a-green-leaves.jpg?b=1&s=170667a&w=0&k=20&c=8VJqY1NgnjaPipn-rMY8BJsZ-hFIG3X0HxTdhQ2AcGo=",
-                "https://cdn.pixabay.com/photo/2013/08/22/19/18/flowers-174817_960_720.jpg",
-                "https://cdn.pixabay.com/photo/2012/03/01/00/55/flowers-19830_960_720.jpg"
+                {
+                    "url": "https://media.istockphoto.com/id/1358622602/photo/red-rose-flower-head-white-background.jpg?b=1&s=170667a&w=0&k=20&c=VF6JTdkEX2UKq8ka8wBH8P_Z7xi4flBuFjGux-RSONM="
+                },
+                {
+                    "url": "https://media.istockphoto.com/id/1448176507/photo/dark-red-rose-with-a-green-leaves.jpg?b=1&s=170667a&w=0&k=20&c=8VJqY1NgnjaPipn-rMY8BJsZ-hFIG3X0HxTdhQ2AcGo="
+                },
+                {
+                    "url": "https://cdn.pixabay.com/photo/2013/08/22/19/18/flowers-174817_960_720.jpg"
+                },
+                {
+                    "url": "https://cdn.pixabay.com/photo/2012/03/01/00/55/flowers-19830_960_720.jpg"
+                }
             ],
             "category": "Flowers",
             "sub_category": "Rose Bouquets",
