@@ -14,6 +14,9 @@ data.flowers.forEach((flower) => {
         uniqueNamesMap.set(name, flower);
     }
 });
+data.flowers.forEach((flower, index) => {
+    flower.id = index + 1;
+});
 
 // Create an array from the map values to get unique entries
 data.flowers = Array.from(uniqueNamesMap.values());
