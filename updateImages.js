@@ -1,38 +1,25 @@
 const fs = require('fs');
-const axios = require('axios');
-const cheerio = require('cheerio');
 
-// Read the existing JSON data
+// Read the JSON file
 const jsonData = fs.readFileSync('flowerData.json');
 const data = JSON.parse(jsonData);
-console.table(data);
 
-// Function to extract image URLs from the internet
-async function extractImageURLs() {
-    for (let i = 0; i < data.length; i++) {
-        const product = data[i];
+// Create a map to track unique names
+const uniqueNamesMap = new Map();
 
-        // Make a request to the website
-        const response = await axios.get(product.images[0]);
-
-        // Parse the HTML content
-        const html = response.data;
-        const $ = cheerio.load(html);
-
-        // Extract the image URL
-        const imageURL = $('images').attr('src');
-
-        // Update the image URL in the data
-        product.images[0] = imageURL;
+// Iterate over the flowers in the JSON data and add unique entries to the map
+data.flowers.forEach((flower) => {
+    const name = flower.name;
+    if (!uniqueNamesMap.has(name)) {
+        uniqueNamesMap.set(name, flower);
     }
-
-    // Write the updated data to the JSON file
-    const updatedJsonData = JSON.stringify(data, null, 2);
-    fs.writeFileSync('flowerData.json', updatedJsonData);
-    console.log('Image URLs updated successfully!');
-}
-
-// Call the function to extract and update image URLs
-extractImageURLs().catch((error) => {
-    console.log('An error occurred:', error.message);
 });
+
+// Create an array from the map values to get unique entries
+data.flowers = Array.from(uniqueNamesMap.values());
+
+// Write the updated JSON data back to the file
+const updatedJsonData = JSON.stringify(data, null, 2);
+fs.writeFileSync('flowerData.json', updatedJsonData);
+
+console.log('Duplicate entries removed and JSON file updated successfully.');
