@@ -34,6 +34,21 @@ async function updateFlowerData() {
                 console.error(`Error retrieving images for flower ${flower.name}:`, error);
             }
         }
+        const uniqueNamesMap = new Map();
+
+        // Iterate over the flowers in the JSON data and add unique entries to the map
+        data.flowers.forEach((flower) => {
+            const name = flower.name;
+            if (!uniqueNamesMap.has(name)) {
+                uniqueNamesMap.set(name, flower);
+            }
+        });
+        data.flowers.forEach((flower, index) => {
+            flower.id = index + 1;
+        });
+
+        // Create an array from the map values to get unique entries
+        data.flowers = Array.from(uniqueNamesMap.values());
 
         // Write the updated JSON data back to the file
         const updatedJsonData = JSON.stringify(data, null, 2);
