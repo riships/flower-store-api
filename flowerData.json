@@ -702,7 +702,7 @@
       "quantity": 25,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.5,
+      "ratings": 4.5,
       "rating_count": 15,
       "images": [
         {
@@ -749,7 +749,7 @@
       "quantity": 30,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.2,
+      "ratings": 4.2,
       "rating_count": 10,
       "images": [
         {
@@ -796,7 +796,7 @@
       "quantity": 20,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4,
+      "ratings": 4,
       "rating_count": 8,
       "images": [
         {
@@ -843,7 +843,7 @@
       "quantity": 10,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.8,
+      "ratings": 4.8,
       "rating_count": 12,
       "images": [
         {
@@ -890,7 +890,7 @@
       "quantity": 18,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.1,
+      "ratings": 4.1,
       "rating_count": 7,
       "images": [
         {
@@ -937,7 +937,7 @@
       "quantity": 22,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.3,
+      "ratings": 4.3,
       "rating_count": 5,
       "images": [
         {
@@ -984,7 +984,7 @@
       "quantity": 12,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.6,
+      "ratings": 4.6,
       "rating_count": 9,
       "images": [
         {
@@ -1031,7 +1031,7 @@
       "quantity": 28,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4,
+      "ratings": 4,
       "rating_count": 6,
       "images": [
         {
@@ -1078,7 +1078,7 @@
       "quantity": 15,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.2,
+      "ratings": 4.2,
       "rating_count": 3,
       "images": [
         {
@@ -1125,7 +1125,7 @@
       "quantity": 20,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.7,
+      "ratings": 4.7,
       "rating_count": 11,
       "images": [
         {
@@ -1172,7 +1172,7 @@
       "quantity": 18,
       "availability": "In Stock",
       "featured": false,
-      "rating": 3.9,
+      "ratings": 3.9,
       "rating_count": 7,
       "images": [
         {
@@ -1219,7 +1219,7 @@
       "quantity": 10,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.5,
+      "ratings": 4.5,
       "rating_count": 8,
       "images": [
         {
@@ -1266,7 +1266,7 @@
       "quantity": 25,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.1,
+      "ratings": 4.1,
       "rating_count": 4,
       "images": [
         {
@@ -1313,7 +1313,7 @@
       "quantity": 14,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.4,
+      "ratings": 4.4,
       "rating_count": 6,
       "images": [
         {
@@ -1360,7 +1360,7 @@
       "quantity": 8,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.8,
+      "ratings": 4.8,
       "rating_count": 14,
       "images": [
         {
@@ -1407,7 +1407,7 @@
       "quantity": 17,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.2,
+      "ratings": 4.2,
       "rating_count": 9,
       "images": [
         {
@@ -1454,7 +1454,7 @@
       "quantity": 12,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.6,
+      "ratings": 4.6,
       "rating_count": 11,
       "images": [
         {
@@ -1501,7 +1501,7 @@
       "quantity": 9,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.9,
+      "ratings": 4.9,
       "rating_count": 15,
       "images": [
         {
@@ -1548,7 +1548,7 @@
       "quantity": 18,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.3,
+      "ratings": 4.3,
       "rating_count": 7,
       "images": [
         {
@@ -1595,7 +1595,7 @@
       "quantity": 21,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4,
+      "ratings": 4,
       "rating_count": 5,
       "images": [
         {
@@ -1642,7 +1642,7 @@
       "quantity": 16,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.2,
+      "ratings": 4.2,
       "rating_count": 8,
       "images": [
         {
@@ -1689,7 +1689,7 @@
       "quantity": 14,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.7,
+      "ratings": 4.7,
       "rating_count": 12,
       "images": [
         {
@@ -1736,7 +1736,7 @@
       "quantity": 11,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.4,
+      "ratings": 4.4,
       "rating_count": 9,
       "images": [
         {
@@ -1783,7 +1783,7 @@
       "quantity": 8,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.6,
+      "ratings": 4.6,
       "rating_count": 10,
       "images": [
         {
@@ -1830,7 +1830,7 @@
       "quantity": 19,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.1,
+      "ratings": 4.1,
       "rating_count": 6,
       "images": [
         {
@@ -1877,7 +1877,7 @@
       "quantity": 22,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.8,
+      "ratings": 4.8,
       "rating_count": 14,
       "images": [
         {
@@ -1924,7 +1924,7 @@
       "quantity": 16,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.5,
+      "ratings": 4.5,
       "rating_count": 11,
       "images": [
         {
@@ -1971,7 +1971,7 @@
       "quantity": 9,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.3,
+      "ratings": 4.3,
       "rating_count": 7,
       "images": [
         {
@@ -2018,7 +2018,7 @@
       "quantity": 12,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.2,
+      "ratings": 4.2,
       "rating_count": 9,
       "images": [
         {
@@ -2065,7 +2065,7 @@
       "quantity": 14,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.6,
+      "ratings": 4.6,
       "rating_count": 10,
       "images": [
         {
@@ -2112,7 +2112,7 @@
       "quantity": 18,
       "availability": "In Stock",
       "featured": true,
-      "rating": 4.4,
+      "ratings": 4.4,
       "rating_count": 12,
       "images": [
         {
@@ -2159,7 +2159,7 @@
       "quantity": 20,
       "availability": "In Stock",
       "featured": true,
-      "rating": 4.8,
+      "ratings": 4.8,
       "rating_count": 16,
       "images": [
         {
@@ -2206,7 +2206,7 @@
       "quantity": 8,
       "availability": "In Stock",
       "featured": true,
-      "rating": 4.2,
+      "ratings": 4.2,
       "rating_count": 6,
       "images": [
         {
@@ -2253,7 +2253,7 @@
       "quantity": 11,
       "availability": "In Stock",
       "featured": true,
-      "rating": 4.7,
+      "ratings": 4.7,
       "rating_count": 13,
       "images": [
         {
@@ -2300,7 +2300,7 @@
       "quantity": 15,
       "availability": "In Stock",
       "featured": true,
-      "rating": 4.4,
+      "ratings": 4.4,
       "rating_count": 11,
       "images": [
         {
@@ -2347,7 +2347,7 @@
       "quantity": 10,
       "availability": "In Stock",
       "featured": true,
-      "rating": 4.6,
+      "ratings": 4.6,
       "rating_count": 9,
       "images": [
         {
@@ -2394,7 +2394,7 @@
       "quantity": 14,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.3,
+      "ratings": 4.3,
       "rating_count": 8,
       "images": [
         {
@@ -2441,7 +2441,7 @@
       "quantity": 12,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.1,
+      "ratings": 4.1,
       "rating_count": 5,
       "images": [
         {
@@ -2488,7 +2488,7 @@
       "quantity": 6,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.7,
+      "ratings": 4.7,
       "rating_count": 14,
       "images": [
         {
@@ -2535,7 +2535,7 @@
       "quantity": 20,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.5,
+      "ratings": 4.5,
       "rating_count": 10,
       "images": [
         {
@@ -2582,7 +2582,7 @@
       "quantity": 8,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.2,
+      "ratings": 4.2,
       "rating_count": 6,
       "images": [
         {
@@ -2629,7 +2629,7 @@
       "quantity": 5,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.8,
+      "ratings": 4.8,
       "rating_count": 12,
       "images": [
         {
@@ -2676,7 +2676,7 @@
       "quantity": 18,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4,
+      "ratings": 4,
       "rating_count": 4,
       "images": [
         {
@@ -2723,7 +2723,7 @@
       "quantity": 10,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.6,
+      "ratings": 4.6,
       "rating_count": 9,
       "images": [
         {
@@ -2770,7 +2770,7 @@
       "quantity": 8,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.2,
+      "ratings": 4.2,
       "rating_count": 5,
       "images": [
         {
@@ -2799,7 +2799,7 @@
       "quantity": 20,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.8,
+      "ratings": 4.8,
       "rating_count": 6,
       "images": [
         {
@@ -2846,7 +2846,7 @@
       "quantity": 15,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.3,
+      "ratings": 4.3,
       "rating_count": 7,
       "images": [
         {
@@ -2893,7 +2893,7 @@
       "quantity": 10,
       "availability": "In Stock",
       "featured": false,
-      "rating": 4.6,
+      "ratings": 4.6,
       "rating_count": 9,
       "images": [
         {
