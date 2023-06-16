@@ -704,7 +704,6 @@
       "featured": true,
       "rating": 4.5,
       "rating_count": 15,
-      "image": "https://example.com/rose.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1496062031456-07b8f162a322?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxSb3NlJTIwJTI4Um9zYSUyOXxlbnwwfHx8fDE2ODY5MTMyMTF8MA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -752,7 +751,6 @@
       "featured": false,
       "rating": 4.2,
       "rating_count": 10,
-      "image": "https://example.com/sunflower.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1580296705743-2c9651a70b9c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxTdW5mbG93ZXIlMjAlMjhIZWxpYW50aHVzJTIwYW5udXVzJTI5fGVufDB8fHx8MTY4NjkxMzIxMnww&ixlib=rb-4.0.3&q=80&w=1080"
@@ -800,7 +798,6 @@
       "featured": false,
       "rating": 4,
       "rating_count": 8,
-      "image": "https://example.com/tulip.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1520763185298-1b434c919102?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxUdWxpcCUyMCUyOFR1bGlwYSUyOXxlbnwwfHx8fDE2ODY5MTMyMTJ8MA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -848,7 +845,6 @@
       "featured": true,
       "rating": 4.8,
       "rating_count": 12,
-      "image": "https://example.com/orchid.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1622456521779-828002016f03?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxPcmNoaWQlMjAlMjhPcmNoaWRhY2VhZSUyOXxlbnwwfHx8fDE2ODY5MTMyMTJ8MA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -896,7 +892,6 @@
       "featured": true,
       "rating": 4.1,
       "rating_count": 7,
-      "image": "https://example.com/lily.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1502977249166-824b3a8a4d6d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxMaWx5JTIwJTI4TGlsaXVtJTI5fGVufDB8fHx8MTY4NjkxMzIxM3ww&ixlib=rb-4.0.3&q=80&w=1080"
@@ -944,7 +939,6 @@
       "featured": false,
       "rating": 4.3,
       "rating_count": 5,
-      "image": "https://example.com/daffodil.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1460235237267-41def675ff13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxEYWZmb2RpbCUyMCUyOE5hcmNpc3N1cyUyOXxlbnwwfHx8fDE2ODY5MTMyMTN8MA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -992,7 +986,6 @@
       "featured": false,
       "rating": 4.6,
       "rating_count": 9,
-      "image": "https://example.com/iris.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1615552441070-cbe0d49f5ae9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxJcmlzJTIwJTI4SXJpcyUyOXxlbnwwfHx8fDE2ODY5MTMyMTR8MA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1040,7 +1033,6 @@
       "featured": false,
       "rating": 4,
       "rating_count": 6,
-      "image": "https://example.com/carnation.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1549036999-2380652a3300?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxDYXJuYXRpb24lMjAlMjhEaWFudGh1cyUyMGNhcnlvcGh5bGx1cyUyOXxlbnwwfHx8fDE2ODY5MTMyMTR8MA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1088,7 +1080,6 @@
       "featured": true,
       "rating": 4.2,
       "rating_count": 3,
-      "image": "https://example.com/pansy.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1667902686660-c722e178a866?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxQYW5zeSUyMCUyOFZpb2xhJTIwdHJpY29sb3IlMjl8ZW58MHx8fHwxNjg2OTEzMjE1fDA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1136,7 +1127,6 @@
       "featured": true,
       "rating": 4.7,
       "rating_count": 11,
-      "image": "https://example.com/geranium.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1646598446819-508b04282c64?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxHZXJhbml1bSUyMCUyOFBlbGFyZ29uaXVtJTI5fGVufDB8fHx8MTY4NjkxMzIxNXww&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1184,7 +1174,6 @@
       "featured": false,
       "rating": 3.9,
       "rating_count": 7,
-      "image": "https://example.com/daisy.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1570612494382-5c71141f760e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxEYWlzeSUyMCUyOEJlbGxpcyUyMHBlcmVubmlzJTI5fGVufDB8fHx8MTY4NjkxMzIxNnww&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1232,7 +1221,6 @@
       "featured": false,
       "rating": 4.5,
       "rating_count": 8,
-      "image": "https://example.com/lavender.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1528190590778-23ac3ad37dff?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxMYXZlbmRlciUyMCUyOExhdmFuZHVsYSUyOXxlbnwwfHx8fDE2ODY5MTMyMTZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1280,7 +1268,6 @@
       "featured": true,
       "rating": 4.1,
       "rating_count": 4,
-      "image": "https://example.com/marigold.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1674889803194-d9e8fdd987ed?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxNYXJpZ29sZCUyMCUyOFRhZ2V0ZXMlMjl8ZW58MHx8fHwxNjg2OTEzMjE3fDA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1328,7 +1315,6 @@
       "featured": false,
       "rating": 4.4,
       "rating_count": 6,
-      "image": "https://example.com/poppy.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1558812754-dedd9ca6234f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxQb3BweSUyMCUyOFBhcGF2ZXIlMjl8ZW58MHx8fHwxNjg2OTEzMjE3fDA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1376,7 +1362,6 @@
       "featured": true,
       "rating": 4.8,
       "rating_count": 14,
-      "image": "https://example.com/jasmine.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1577083165633-14ebcdb0f658?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxKYXNtaW5lJTIwJTI4SmFzbWludW0lMjl8ZW58MHx8fHwxNjg2OTEzMjE4fDA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1424,7 +1409,6 @@
       "featured": false,
       "rating": 4.2,
       "rating_count": 9,
-      "image": "https://example.com/hibiscus.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1613764670482-4bbbfb09b389?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxIaWJpc2N1cyUyMCUyOEhpYmlzY3VzJTI5fGVufDB8fHx8MTY4NjkxMzIxOHww&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1472,7 +1456,6 @@
       "featured": true,
       "rating": 4.6,
       "rating_count": 11,
-      "image": "https://example.com/hydrangea.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1529530968687-17b54c12c9a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxIeWRyYW5nZWElMjAlMjhIeWRyYW5nZWElMjl8ZW58MHx8fHwxNjg2OTEzMjE5fDA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1520,7 +1503,6 @@
       "featured": true,
       "rating": 4.9,
       "rating_count": 15,
-      "image": "https://example.com/peony.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1593314519669-61d15f8ec983?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxQZW9ueSUyMCUyOFBhZW9uaWElMjl8ZW58MHx8fHwxNjg2OTEzMjE5fDA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1568,7 +1550,6 @@
       "featured": false,
       "rating": 4.3,
       "rating_count": 7,
-      "image": "https://example.com/snapdragon.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1588879460659-e5293b045344?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxTbmFwZHJhZ29uJTIwJTI4QW50aXJyaGludW0lMjl8ZW58MHx8fHwxNjg2OTEzMjIwfDA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1616,7 +1597,6 @@
       "featured": false,
       "rating": 4,
       "rating_count": 5,
-      "image": "https://example.com/petunia.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1646577305150-9b6f6eea543a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxQZXR1bmlhJTIwJTI4UGV0dW5pYSUyOXxlbnwwfHx8fDE2ODY5MTMyMjB8MA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1664,7 +1644,6 @@
       "featured": false,
       "rating": 4.2,
       "rating_count": 8,
-      "image": "https://example.com/zinnia.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1627522460108-215683bdc9f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxaaW5uaWElMjAlMjhaaW5uaWElMjl8ZW58MHx8fHwxNjg2OTEzMjIxfDA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1712,7 +1691,6 @@
       "featured": true,
       "rating": 4.7,
       "rating_count": 12,
-      "image": "https://example.com/chrysanthemum.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1470200283133-5d636ffc7022?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxDaHJ5c2FudGhlbXVtJTIwJTI4Q2hyeXNhbnRoZW11bSUyOXxlbnwwfHx8fDE2ODY5MTMyMjF8MA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1760,7 +1738,6 @@
       "featured": false,
       "rating": 4.4,
       "rating_count": 9,
-      "image": "https://example.com/azalea.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1675524118961-15640410d5ba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxBemFsZWElMjAlMjhSaG9kb2RlbmRyb24lMjl8ZW58MHx8fHwxNjg2OTEzMjIyfDA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1808,7 +1785,6 @@
       "featured": false,
       "rating": 4.6,
       "rating_count": 10,
-      "image": "https://example.com/freesia.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1684469713701-bd220309b8a9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxGcmVlc2lhJTIwJTI4RnJlZXNpYSUyOXxlbnwwfHx8fDE2ODY5MTMyMjJ8MA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1856,7 +1832,6 @@
       "featured": false,
       "rating": 4.1,
       "rating_count": 6,
-      "image": "https://example.com/cosmos.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1685218201360-b7b4221db6e4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxDb3Ntb3MlMjAlMjhDb3Ntb3MlMjBiaXBpbm5hdHVzJTI5fGVufDB8fHx8MTY4NjkxMzIyM3ww&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1904,7 +1879,6 @@
       "featured": true,
       "rating": 4.8,
       "rating_count": 14,
-      "image": "https://example.com/crocus.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1525328185020-b50a73fe2eb8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxDcm9jdXMlMjAlMjhDcm9jdXMlMjl8ZW58MHx8fHwxNjg2OTEzMjIzfDA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -1952,7 +1926,6 @@
       "featured": false,
       "rating": 4.5,
       "rating_count": 11,
-      "image": "https://example.com/gerbera_daisy.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1508784411316-02b8cd4d3a3a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxHZXJiZXJhJTIwRGFpc3klMjAlMjhHZXJiZXJhJTI5fGVufDB8fHx8MTY4NjkxMzIyNHww&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2000,7 +1973,6 @@
       "featured": true,
       "rating": 4.3,
       "rating_count": 7,
-      "image": "https://example.com/foxglove.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1556188680-14d5be8c9016?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxGb3hnbG92ZSUyMCUyOERpZ2l0YWxpcyUyMHB1cnB1cmVhJTI5fGVufDB8fHx8MTY4NjkxMzIyNHww&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2048,7 +2020,6 @@
       "featured": false,
       "rating": 4.2,
       "rating_count": 9,
-      "image": "https://example.com/morning_glory.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1671366664103-bb7293dbf4d1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxNb3JuaW5nJTIwR2xvcnklMjAlMjhJcG9tb2VhJTI5fGVufDB8fHx8MTY4NjkxMzIyNHww&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2096,7 +2067,6 @@
       "featured": false,
       "rating": 4.6,
       "rating_count": 10,
-      "image": "https://example.com/hollyhock.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1685975735004-90369f226987?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxIb2xseWhvY2slMjAlMjhBbGNlYSUyMHJvc2VhJTI5fGVufDB8fHx8MTY4NjkxMzIyNXww&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2144,7 +2114,6 @@
       "featured": true,
       "rating": 4.4,
       "rating_count": 12,
-      "image": "https://example.com/anemone.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1518209852185-476c1f585c84?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxBbmVtb25lJTIwJTI4QW5lbW9uZSUyOXxlbnwwfHx8fDE2ODY5MTMyMjV8MA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2192,7 +2161,6 @@
       "featured": false,
       "rating": 4.8,
       "rating_count": 16,
-      "image": "https://example.com/gladiolus.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1660812137504-ba7c6ec6691d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxHbGFkaW9sdXMlMjAlMjhHbGFkaW9sdXMlMjl8ZW58MHx8fHwxNjg2OTEzMjI2fDA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2240,7 +2208,6 @@
       "featured": true,
       "rating": 4.2,
       "rating_count": 6,
-      "image": "https://example.com/peacock_flower.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1678203017430-c7fb80b7b194?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxQZWFjb2NrJTIwRmxvd2VyJTIwJTI4Q2Flc2FscGluaWElMjBwdWxjaGVycmltYSUyOXxlbnwwfHx8fDE2ODY5MTMyMjZ8MA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2288,7 +2255,6 @@
       "featured": false,
       "rating": 4.7,
       "rating_count": 13,
-      "image": "https://example.com/bird_of_paradise.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1524096274206-cb088c99dbcd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxCaXJkJTIwb2YlMjBQYXJhZGlzZSUyMCUyOFN0cmVsaXR6aWElMjByZWdpbmFlJTI5fGVufDB8fHx8MTY4NjkxMzIyN3ww&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2336,7 +2302,6 @@
       "featured": false,
       "rating": 4.4,
       "rating_count": 11,
-      "image": "https://example.com/bleeding_heart.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1592169110144-a5fedf6a9908?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxCbGVlZGluZyUyMEhlYXJ0JTIwJTI4RGljZW50cmElMjl8ZW58MHx8fHwxNjg2OTEzMjI4fDA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2384,7 +2349,6 @@
       "featured": true,
       "rating": 4.6,
       "rating_count": 9,
-      "image": "https://example.com/columbine.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1589922923582-9b1fcf44d2df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxDb2x1bWJpbmUlMjAlMjhBcXVpbGVnaWElMjl8ZW58MHx8fHwxNjg2OTEzMjI4fDA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2432,7 +2396,6 @@
       "featured": false,
       "rating": 4.3,
       "rating_count": 8,
-      "image": "https://example.com/black_eyed_susan.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1436262513933-a0b06755c784?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxCbGFjay1leWVkJTIwU3VzYW4lMjAlMjhSdWRiZWNraWElMjBoaXJ0YSUyOXxlbnwwfHx8fDE2ODY5MTMyMjl8MA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2480,7 +2443,6 @@
       "featured": false,
       "rating": 4.1,
       "rating_count": 5,
-      "image": "https://example.com/canterbury_bells.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1474645303019-23542b4c63de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxDYW50ZXJidXJ5JTIwQmVsbHMlMjAlMjhDYW1wYW51bGElMjBtZWRpdW0lMjl8ZW58MHx8fHwxNjg2OTEzMjI5fDA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2528,7 +2490,6 @@
       "featured": true,
       "rating": 4.7,
       "rating_count": 14,
-      "image": "https://example.com/delphinium.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1609565096151-8aeb4e2193cc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxEZWxwaGluaXVtJTIwJTI4RGVscGhpbml1bSUyOXxlbnwwfHx8fDE2ODY5MTMyMzB8MA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2576,7 +2537,6 @@
       "featured": false,
       "rating": 4.5,
       "rating_count": 10,
-      "image": "https://example.com/sweet_pea.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1514517521153-1be72277b32f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxTd2VldCUyMFBlYSUyMCUyOExhdGh5cnVzJTIwb2RvcmF0dXMlMjl8ZW58MHx8fHwxNjg2OTEzMjMwfDA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2624,7 +2584,6 @@
       "featured": false,
       "rating": 4.2,
       "rating_count": 6,
-      "image": "https://example.com/wisteria.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1580196969857-9264f3412a40?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxXaXN0ZXJpYSUyMCUyOFdpc3RlcmlhJTI5fGVufDB8fHx8MTY4NjkxMzIzMXww&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2672,7 +2631,6 @@
       "featured": true,
       "rating": 4.8,
       "rating_count": 12,
-      "image": "https://example.com/magnolia.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1553986186-0eafed9b488c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxNYWdub2xpYSUyMCUyOE1hZ25vbGlhJTI5fGVufDB8fHx8MTY4NjkxMzIzMXww&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2720,7 +2678,6 @@
       "featured": false,
       "rating": 4,
       "rating_count": 4,
-      "image": "https://example.com/buttercup.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1625689989858-74a241f47b37?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxCdXR0ZXJjdXAlMjAlMjhSYW51bmN1bHVzJTI5fGVufDB8fHx8MTY4NjkxMzIzMnww&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2768,7 +2725,6 @@
       "featured": true,
       "rating": 4.6,
       "rating_count": 9,
-      "image": "https://example.com/iceland_poppy.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1592894170688-caa8ebee5e9d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxJY2VsYW5kJTIwUG9wcHklMjAlMjhQYXBhdmVyJTIwbnVkaWNhdWxlJTI5fGVufDB8fHx8MTY4NjkxMzIzM3ww&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2816,7 +2772,6 @@
       "featured": false,
       "rating": 4.2,
       "rating_count": 5,
-      "image": "https://example.com/monkshood.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1634390314506-03d0a0a32d05?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxNb25rc2hvb2QlMjAlMjhBY29uaXR1bSUyOXxlbnwwfHx8fDE2ODY5MTMyMzN8MA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2846,7 +2801,6 @@
       "featured": true,
       "rating": 4.8,
       "rating_count": 6,
-      "image": "https://example.com/snowdrop.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1613067967069-a04f0aa72f28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxTbm93ZHJvcCUyMCUyOEdhbGFudGh1cyUyOXxlbnwwfHx8fDE2ODY5MTMyMzR8MA&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2894,7 +2848,6 @@
       "featured": false,
       "rating": 4.3,
       "rating_count": 7,
-      "image": "https://example.com/cornflower.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1570988370107-a2d589f88bdb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxDb3JuZmxvd2VyJTIwJTI4Q2VudGF1cmVhJTIwY3lhbnVzJTI5fGVufDB8fHx8MTY4NjkxMzIzNXww&ixlib=rb-4.0.3&q=80&w=1080"
@@ -2942,7 +2895,6 @@
       "featured": true,
       "rating": 4.6,
       "rating_count": 9,
-      "image": "https://example.com/violet.jpg",
       "images": [
         {
           "url": "https://images.unsplash.com/photo-1484972759836-b93f9ef2b293?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NjEzOTF8MHwxfHNlYXJjaHwxfHxWaW9sZXQlMjAlMjhWaW9sYSUyMG9kb3JhdGElMjl8ZW58MHx8fHwxNjg2OTEzMjM1fDA&ixlib=rb-4.0.3&q=80&w=1080"
