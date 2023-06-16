@@ -43,7 +43,7 @@
       "color": "Red",
       "quantity": 10,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "ratings": 4.5
     },
     {
@@ -89,7 +89,7 @@
       "color": "White and Yellow",
       "quantity": 15,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "ratings": 4.2
     },
     {
@@ -135,7 +135,7 @@
       "color": "White",
       "quantity": 5,
       "availability": "Out of Stock",
-      "featured": true,
+      "featured": false,
       "ratings": 4.8
     },
     {
@@ -701,7 +701,7 @@
       "color": "Various",
       "quantity": 25,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "rating": 4.5,
       "rating_count": 15,
       "images": [
@@ -842,7 +842,7 @@
       "color": "Various",
       "quantity": 10,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "rating": 4.8,
       "rating_count": 12,
       "images": [
@@ -889,7 +889,7 @@
       "color": "Various",
       "quantity": 18,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "rating": 4.1,
       "rating_count": 7,
       "images": [
@@ -1077,7 +1077,7 @@
       "color": "Various",
       "quantity": 15,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "rating": 4.2,
       "rating_count": 3,
       "images": [
@@ -1124,7 +1124,7 @@
       "color": "Various",
       "quantity": 20,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "rating": 4.7,
       "rating_count": 11,
       "images": [
@@ -1265,7 +1265,7 @@
       "color": "Orange, Yellow",
       "quantity": 25,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "rating": 4.1,
       "rating_count": 4,
       "images": [
@@ -1359,7 +1359,7 @@
       "color": "White",
       "quantity": 8,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "rating": 4.8,
       "rating_count": 14,
       "images": [
@@ -1453,7 +1453,7 @@
       "color": "Pink, Blue, White",
       "quantity": 12,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "rating": 4.6,
       "rating_count": 11,
       "images": [
@@ -1500,7 +1500,7 @@
       "color": "Various",
       "quantity": 9,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "rating": 4.9,
       "rating_count": 15,
       "images": [
@@ -1688,7 +1688,7 @@
       "color": "Various",
       "quantity": 14,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "rating": 4.7,
       "rating_count": 12,
       "images": [
@@ -1876,7 +1876,7 @@
       "color": "Various",
       "quantity": 22,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "rating": 4.8,
       "rating_count": 14,
       "images": [
@@ -1970,7 +1970,7 @@
       "color": "Various",
       "quantity": 9,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "rating": 4.3,
       "rating_count": 7,
       "images": [
@@ -2158,7 +2158,7 @@
       "color": "Various",
       "quantity": 20,
       "availability": "In Stock",
-      "featured": false,
+      "featured": true,
       "rating": 4.8,
       "rating_count": 16,
       "images": [
@@ -2252,7 +2252,7 @@
       "color": "Orange, Blue",
       "quantity": 11,
       "availability": "In Stock",
-      "featured": false,
+      "featured": true,
       "rating": 4.7,
       "rating_count": 13,
       "images": [
@@ -2299,7 +2299,7 @@
       "color": "Pink, White",
       "quantity": 15,
       "availability": "In Stock",
-      "featured": false,
+      "featured": true,
       "rating": 4.4,
       "rating_count": 11,
       "images": [
@@ -2487,7 +2487,7 @@
       "color": "Various",
       "quantity": 6,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "rating": 4.7,
       "rating_count": 14,
       "images": [
@@ -2628,7 +2628,7 @@
       "color": "Various",
       "quantity": 5,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "rating": 4.8,
       "rating_count": 12,
       "images": [
@@ -2722,7 +2722,7 @@
       "color": "Various",
       "quantity": 10,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "rating": 4.6,
       "rating_count": 9,
       "images": [
@@ -2798,7 +2798,7 @@
       "color": "White",
       "quantity": 20,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "rating": 4.8,
       "rating_count": 6,
       "images": [
@@ -2892,7 +2892,7 @@
       "color": "Various",
       "quantity": 10,
       "availability": "In Stock",
-      "featured": true,
+      "featured": false,
       "rating": 4.6,
       "rating_count": 9,
       "images": [
