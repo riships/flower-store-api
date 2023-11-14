@@ -7,6 +7,11 @@ const port = process.env.PORT || 8080; //  chose port from here like 8080, 3001
 const fs = require('fs');
 const axios = require('axios');
 
+const server2 = jsonServer.create();
+const router2 = jsonServer.router("userData.json"); // Change to the correct file path
+const middlewares2 = jsonServer.defaults();
+const port2 = process.env.PORT2 || 3001;
+
 server.use(middlewares);
 server.use(router);
 
@@ -14,8 +19,9 @@ server.listen(port);
 async function getUserData() {
     try {
         // Read the JSON file
-        const jsonData = fs.readFileSync('flowerData.json');
+        const jsonData = fs.readFileSync('usersData.json');
         const data = JSON.parse(jsonData);
+        console.log("data", data);
 
         // Retrieve user data
         for (const user of data.users) {
@@ -32,6 +38,14 @@ async function getUserData() {
     }
 }
 
+getUserData()
+
+
+
+server2.use(middlewares2);
+server2.use(router2);
+
+server2.listen(port2);
 async function updateFlowerData() {
     try {
         // Read the JSON file
@@ -83,4 +97,3 @@ async function updateFlowerData() {
 
 // Call the async function to update the flower data
 updateFlowerData();
-getUserData();
