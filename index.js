@@ -11,6 +11,26 @@ server.use(middlewares);
 server.use(router);
 
 server.listen(port);
+async function getUserData() {
+    try {
+        // Read the JSON file
+        const jsonData = fs.readFileSync('flowerData.json');
+        const data = JSON.parse(jsonData);
+
+        // Retrieve user data
+        for (const user of data.users) {
+            try {
+                console.log('User Data:', user);
+            } catch (error) {
+                console.error(`Error retrieving data for user ${user.name}:`, error);
+            }
+        }
+
+        console.log('User data retrieval complete.');
+    } catch (error) {
+        console.error('Error retrieving data:', error);
+    }
+}
 
 async function updateFlowerData() {
     try {
@@ -63,3 +83,4 @@ async function updateFlowerData() {
 
 // Call the async function to update the flower data
 updateFlowerData();
+getUserData();
