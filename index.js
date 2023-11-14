@@ -8,7 +8,7 @@ const fs = require('fs');
 const axios = require('axios');
 
 const server2 = jsonServer.create();
-const router2 = jsonServer.router("userData.json"); // Change to the correct file path
+const router2 = jsonServer.router("usersData.json"); // Change to the correct file path
 const middlewares2 = jsonServer.defaults();
 const port2 = process.env.PORT2 || 3001;
 
